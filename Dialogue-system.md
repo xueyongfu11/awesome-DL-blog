@@ -38,6 +38,12 @@
   用CNN，rnn累计匹配信息
   - Deep Attention Matching Network：使用transformer，模型似SMN
 
+# FAQ
+
+- [CCKS 2019 | 融入知识图谱的问答匹配寿险问答系统](https://zhuanlan.zhihu.com/p/89983691)
+  - 基于问答库检索式的问答系统的基础上，通过使用知识图谱丰富召回和使用注意力机制方式把知识图谱融入排序模块的方式，大大提升了问答系统的效果
+  
+
 # Open-domain dialogue system
 
 - [Facebook刷新开放域问答SOTA：模型训模型！Reader当Teacher！](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650422401&idx=5&sn=844a512d5133bfb049ec1fbcf5a043df&chksm=becdbadb89ba33cd6fea933f41ce00cae977c35a964b6281c6e9bead2b26399c0b7858e0b9b4&mpshare=1&scene=1&srcid=05068cLavSdTgSO1yG4cp3XW&sharer_sharetime=1620287858377&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=AwAFmFCrdqNtTs9zQqltafg%3D&pass_ticket=2TdDpB9ddfGOZT98TxfdI0%2BydSrf6vzFEEAdeyMDGI%2FZzpXRDDBwFo%2BQrPLaoqwH&wx_header=0#rd)
@@ -62,3 +68,31 @@
 - [rasa填表单激活和结束逻辑代码书写问题 active_loop关键字、写在rules中还是stories中、实际应用](https://blog.csdn.net/weixin_42639575/article/details/119046391)
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
 - [对话机器人](https://www.zhihu.com/column/c_1154767675480821760)
+
+
+# KBQA
+
+- [KBQA知识库问答论文分享](https://zhuanlan.zhihu.com/p/126268532)
+  - Improved Neural Relation Detection for Knowledge Base Question Answering
+    * 2017 ACL
+    - 实体链接；基于query，候选实体来对实体排序；基于query，候选关系来对实体排序
+    - 两个排序得分融合排序；多跳关系中，取和候选答案相邻的实体c，计算q和c的最大重叠部分的字符特征作为得分，如果得分大于某个阈值，则将其作为约束，取c相邻的候选答案作为最终答案
+    - 实体链接使用已有算法；关系检测结合图谱的relation embedding和关系文本
+  - Question Answering over Freebase via Attentive RNN with Similarity Matrix based CNN  
+    - 2018 ACL
+    - 实体链接，关系候选，query中实体用特殊符号替换
+    - 将关系文本分成两部分，subject类型，关系类型，然后与query计算attention，
+    然后再和原始关系embedding融合
+    - 将关系文本作为一个整体，和query计算cross attention，然后使用CNN进行特征提取
+    - 两个部分的特征拼接    
+  - Retrieve and Re-rank: A Simple and Effective IR Approach to Simple Question Answering over Knowledge Graphs  
+    - 2018 ACL end2end
+    - 使用solr召回三元组
+    - 使用正负样本输入孪生网络，正样本由query，pos三元组，query pos三元组等三个部分组成，然后使用卷积网络进行特征提取，max polling，最后拼接三个向量  
+  - Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader
+    - 2019 ACL
+    - 针对基于不完整KB的问答，利用额外的文档知识来补充不完整的KB知识
+  
+
+
+
