@@ -18,7 +18,7 @@
 - [bert家族模型的压缩与蒸馏](https://mp.weixin.qq.com/s/UNHu1eVNorWWKbDb0XBJcA)
   - albert, tinyBert, distilBert等
 
-
-# 综合
+# Survey
 
 - [谷歌、Meta算法工程师给大模型瘦身-书](https://mp.weixin.qq.com/s/ax_SJmQ1SSUn_jutjY1jog)
+- [面向大规模神经网络的模型压缩和加速方法](https://mp.weixin.qq.com/s/ZqEJwYt7my2JQwY6yTTwHQ)
