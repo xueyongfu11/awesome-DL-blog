@@ -4,12 +4,15 @@
 
 - [Blog](#blog)
 - [Survey](#survey)
-- [问答系统方案](#%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E6%96%B9%E6%A1%88)
+- [问答系统方案](#问答系统方案)
 - [Retrieval-based dialogue system](#retrieval-based-dialogue-system)
 - [FAQ](#faq)
 - [Open-domain dialogue system](#open-domain-dialogue-system)
 - [Dialogue generation](#dialogue-generation)
 - [Task-oriented dialogue system](#task-oriented-dialogue-system)
+  - [end2end](#end2end)
+  - [DST](#dst)
+  - [DPL](#dpl)
   - [RASA](#rasa)
 - [KBQA](#kbqa)
 
@@ -76,6 +79,38 @@
 
 # Task-oriented dialogue system
 
+- [填槽与多轮对话 | AI产品经理需要了解的AI技术概念](https://coffee.pmcaff.com/article/971158746030208/pmcaff?utm_source=forum&from=related&pmc_param%5Bentry_id%5D=950709304427648)
+- [UNIT对话系统初级教学](http://bit.baidu.com/products?id=11)
+- [近期任务型对话系统综述以及百度UNIT，理论和实践，我全都要！](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650424818&idx=1&sn=89ddc523600e72beecb318c213f267be&chksm=becdc3a889ba4abe426847e4456cd4a49fed381293dd3b0100bbc8c88f3d8173f59a6853bfd5&mpshare=1&scene=24&srcid=1118BZKVAWr8IhzBeUB6pQjN&sharer_sharetime=1637165459841&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A7W878EXTHkmGU1Jjj3p%2BDw%3D&pass_ticket=3YSLQZ0%2BFGkSbSLIxeI5ld3daRcSE5x5m%2FqFag47PCWFTeogIXft8nu1uI5rJumG&wx_header=0#rd)
+- [Latent Tree Models](https://cse.hkust.edu.hk/~lzhang/ltm/index.htm)
+- [few shot prompt learning + 任务型对话系统的相关任务](https://zhuanlan.zhihu.com/p/422866442)
+
+
+## end2end
+
+- [任务型对话系统简述与细节把捉](https://zhuanlan.zhihu.com/p/276323615)
+- [任务型对话系统预训练最新研究进展](https://mp.weixin.qq.com/s/b3JSE1o9dr7loafwhEWomA)
+- [基于GPT-2的端到端任务型对话系统简述](https://zhuanlan.zhihu.com/p/423021503)
+- [端到端的任务型对话](https://zhuanlan.zhihu.com/p/64965964)
+- [用于多领域端到端任务型对话系统的动态融合网络](https://mp.weixin.qq.com/s?__biz=Mzg3OTAyMjcyMw==&mid=2247487026&idx=2&sn=94ec0e5588b139958fac8bf535185a7d&chksm=cf0b89def87c00c8fc585a7c7d9d0f418e9f5462f0caa5ff3a135aa48e2b692de326dbd54e72&mpshare=1&scene=24&srcid=0731m0abLZOS6gUxPhv6asaY&sharer_sharetime=1596188226791&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A7617s8pi3kRSz7aN6zWAuo%3D&pass_ticket=IL%2BeHRprAt5yAlLjjC250jaLkeHDOYyDyV4vRbYX%2F0r7c3KJ%2FwPqrBhOiTesV9Z9&wx_header=0#rd)
+- [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://zhuanlan.zhihu.com/p/21654924)
+
+## DST
+
+- [赛尔笔记|基于深度学习方法的对话状态跟踪综述](https://zhuanlan.zhihu.com/p/385533676)
+- [【DST系列】DST概述](http://www.360doc.com/content/20/0929/21/7673502_938211385.shtml)
+- [AI LIVE | DSTC 8“基于Schema的对话状态追踪”竞赛冠军方案解读](https://zhuanlan.zhihu.com/p/159106327?utm_source=wechat_session&utm_medium=social&utm_oi=615941546193850368&utm_campaign=shareopn)
+- [对话状态追踪DST](https://zhuanlan.zhihu.com/p/60190066?utm_source=wechat_session&utm_medium=social&utm_oi=615941546193850368&utm_campaign=shareopn)
+- [ACL2020 | 基于槽注意力和信息共享的对话状态追踪](https://zhuanlan.zhihu.com/p/346365003?utm_source=wechat_session&utm_medium=social&utm_oi=615941546193850368&utm_campaign=shareopn)
+- [一文看懂任务型对话系统中的状态追踪](https://zhuanlan.zhihu.com/p/51476362?utm_source=wechat_session&utm_medium=social&utm_oi=615941546193850368&utm_campaign=shareopn)
+- [对话状态追踪（DST）](https://zhuanlan.zhihu.com/p/345159158?utm_source=wechat_session&utm_medium=social&utm_oi=615941546193850368&utm_campaign=shareopn)
+- [任务导向型对话系统——对话管理模型研究最新进展](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247502045&idx=1&sn=3c35232c14f71184a230303aaf533fd6&chksm=96ea175da19d9e4b5dcdd0d33cd0eca73fab2753fb44bc52551d4b85fff9eb66e8bddabc57ff&mpshare=1&scene=24&srcid=1118mjZVf7rkuyh0jPVjzkO1&sharer_sharetime=1637165126500&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A9o43ydTag%2Fnlyi3QNSXCO4%3D&pass_ticket=3YSLQZ0%2BFGkSbSLIxeI5ld3daRcSE5x5m%2FqFag47PCWFTeogIXft8nu1uI5rJumG&wx_header=0#rd)
+  
+## DPL
+
+- [深度强化学习在对话管理中的应用](https://zhuanlan.zhihu.com/p/352583321)
+- [Deep Dyna-Q: 任务型对话策略学习的集成规划](https://zhuanlan.zhihu.com/p/50223176)
+- [一文看懂任务型对话中的对话策略学习（DPL）](https://zhuanlan.zhihu.com/p/52692962)
 - [深度强化学习在对话管理中的应用](https://zhuanlan.zhihu.com/p/352583321)
 
 ## RASA

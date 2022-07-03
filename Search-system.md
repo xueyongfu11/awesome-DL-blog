@@ -11,8 +11,16 @@
 
 # Search-system
 
-
-
+- [Facebook全新电商搜索系统Que2Search](https://mp.weixin.qq.com/s/S18T913SeyrtVQadMmLPlA)
+- [SIGIR20最佳论文：通往公平、公正的Learning to Rank！](https://mp.weixin.qq.com/s?__biz=MzIzMzYwNzY2NQ==&mid=2247485912&idx=1&sn=4f360828048866bca8138846351a80e6&chksm=e8825146dff5d8505f06c6598d04e9f0c3dab0d8dd6fe4c5eac1d42490b06e233c31d1ea2ef9&scene=21#wechat_redirect)
+- [前沿重器2 美团搜索理解和召回](https://mp.weixin.qq.com/s?__biz=MzIzMzYwNzY2NQ==&mid=2247486004&idx=1&sn=2725794c67a9350cb3f9feabd4ee1736&chksm=e88252aadff5dbbcc41e48223e550469aee1a37dcaf2ee7d29b52fa174cfb0d7223dc5b4e5b3&scene=21#wechat_redirect)
+- [搜索中的深度匹配模型](https://zhuanlan.zhihu.com/p/113244063)
+- [WSDM Cup 2020检索排序评测任务第一名经验总结](https://zhuanlan.zhihu.com/p/116013450)
+- [京东：个性化语义搜索在电商搜索中的应用](https://mp.weixin.qq.com/s/S9cw-pLIJSa4F9YvqE9uhw)
+- [淘宝搜索中基于embedding的召回](https://mp.weixin.qq.com/s/775qZLQaH9IolmqvPz3Sjw)
+- [Transformer 在美团搜索排序中的实践](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651751586&idx=1&sn=a61c9da125e9b7e68473b32e0278b0ea&chksm=bd125def8a65d4f9d20b682345365d5001e9c863d5046acf683da6116b265d168c0340754fc9&scene=21#wechat_redirect)
+- [Embedding-based Retrieval in Facebook Search](https://zhuanlan.zhihu.com/p/152570715)
+  
 
 # Vector retrieval
 
