@@ -1,5 +1,5 @@
 
-
+- [针对OCR的NLP纠错：从原理到实践](https://zhuanlan.zhihu.com/p/179957371)
 - [AI LIVE | 文本纠错技术探索和实践](https://zhuanlan.zhihu.com/p/159101860)
 - [NLP上层应用的关键一环——中文纠错技术简述](https://zhuanlan.zhihu.com/p/82807092)
 - [小爱同学-基于BERT的ASR纠错](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247503412&idx=1&sn=75ef312902713d3766a43a6c71e1024e&chksm=fbd77c58cca0f54e3a9ffbe9ec075a144e8b16a171287367173d4a0d69f511106335c7b05298&scene=27#wechat_redirect)
