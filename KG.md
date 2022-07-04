@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [表示学习](#%E8%A1%A8%E7%A4%BA%E5%AD%A6%E4%B9%A0)
+  - [传统的知识图谱嵌入](#%E4%BC%A0%E7%BB%9F%E7%9A%84%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%B5%8C%E5%85%A5)
+    - [匹配模型](#%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B)
+  - [规则增强的表示学习](#%E8%A7%84%E5%88%99%E5%A2%9E%E5%BC%BA%E7%9A%84%E8%A1%A8%E7%A4%BA%E5%AD%A6%E4%B9%A0)
+  - [GNN-based KGEs](#gnn-based-kges)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # 表示学习
 

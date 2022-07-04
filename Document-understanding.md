@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [综述](#%E7%BB%BC%E8%BF%B0)
+- [文档信息抽取](#%E6%96%87%E6%A1%A3%E4%BF%A1%E6%81%AF%E6%8A%BD%E5%8F%96)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## 综述
 

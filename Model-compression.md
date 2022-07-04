@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [KD](#kd)
+  - [bert](#bert)
+- [Survey](#survey)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # KD
 
@@ -8,6 +18,8 @@
   - 训练有素的神经网络存在某种简单性，比如：许多权重接近于0，矩阵是可以低秩分解的，权重可以使用少量的比特来表示，层直接趋向于学习相同的特征
   
 ## bert
+
+- [所有你要知道的 BERT 模型压缩方法，都在这里！](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495697&idx=3&sn=445b198682cdd7afa9e5b9a105d280af&source=41#wechat_redirect)
 - [bert蒸馏瘦身相关的预训练语言模型](https://mp.weixin.qq.com/s/8xNWYJsIDz7j3KW4YyIBKA)
 - [4层小模型吊打BERT-large？亚马逊最新瘦身秘籍](https://mp.weixin.qq.com/s/Nt7KJvmL1WnGFgIyhOraBw)
   - 非蒸馏方法，砍掉bert模型的一些层，然后进行精调，但是砍掉不同层，对最终结果的影响很大
