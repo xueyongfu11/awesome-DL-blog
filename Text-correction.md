@@ -1,4 +1,6 @@
 
+
+- [腾讯中文纠错模型 PLOME 论文详解！](https://juejin.cn/post/7039144348021162021)
 - [针对OCR的NLP纠错：从原理到实践](https://zhuanlan.zhihu.com/p/179957371)
 - [AI LIVE | 文本纠错技术探索和实践](https://zhuanlan.zhihu.com/p/159101860)
 - [NLP上层应用的关键一环——中文纠错技术简述](https://zhuanlan.zhihu.com/p/82807092)
