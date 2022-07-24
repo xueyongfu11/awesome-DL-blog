@@ -9,6 +9,10 @@
 - [Long-Tailed Classification (2) 长尾分布下分类问题的最新研究](https://zhuanlan.zhihu.com/p/158638078)
 
 
+## 鲁棒性
+- [复旦张奇：如何解决NLP中的鲁棒性问题？](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247508080&idx=1&sn=3fe6c9920d93fd73c9645405ea6e95f3&chksm=febce3b4c9cb6aa2927a67bec04ca87d8cda660dbae3d25d8e381cbdbe786ef33fdf388a2973&mpshare=1&scene=24&srcid=1116RsD3z7FbUBuIFRO7emC7&sharer_sharetime=1637057596381&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Azky0WfOZTyCjp%2BewyvxTrM%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
+  
+
 ## Other
 
 - [标签平滑Label Smoothing](https://blog.csdn.net/qq_43211132/article/details/100510113)
