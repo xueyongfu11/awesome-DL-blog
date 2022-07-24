@@ -43,6 +43,7 @@
 - [BART原理简介与代码实战](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247484720&idx=1&sn=e5109a1dddf87d0e59496389003018d8&chksm=97aee3e2a0d96af4e5f412a8caa21134ef82d48eb374c2bcc2b5b68ac62f65fe09b4793c6ef8&scene=0&xtrack=1&exportkey=A%2BV2SkDZneNY4W%2FS0tX%2FiPg%3D&pass_ticket=LlL6Ad5uohnLAlqJrzan%2BA5dDM3m9%2Bnl4L%2FaTWpnfTNnifRhbExGygOrgXBzVB7b&wx_header=0#rd)
 - [ENRIE(Tsinghua)：知识图谱与BERT相结合，为语言模型赋能助力](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650415030&idx=3&sn=86e28c9da6f90fb46a7d16aade947de0&chksm=becd99ec89ba10fadff1935e38ab25a665397ce37942b297c66a37889666dc56edbbeb133e06&mpshare=1&scene=24&srcid=07319ixYcn1arNxEeuAwLPYw&sharer_sharetime=1596189952608&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Azal0BPq0SW8c0Q0eRaUuWU%3D&pass_ticket=IL%2BeHRprAt5yAlLjjC250jaLkeHDOYyDyV4vRbYX%2F0r7c3KJ%2FwPqrBhOiTesV9Z9&wx_header=0#rd)
 - [XLNet:运行机制及和Bert的异同比较](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247489553&idx=2&sn=68d679ea25168b81ad86e8ce857b5a19&chksm=ebb420c5dcc3a9d36a6031c6bffb3f7e33333061b5f3bf8d783a19e5438df4616f51b2b47312&scene=0&xtrack=1&pass_ticket=5l2GTJoNs3UnPjzRsDzXqTZBP6%2Btylp4BwIFxk3aFUwONC5l8MJz3gdjYHCbXS%2FH#rd)
+- [ACL2021论文之ChineseBERT：融合字形与拼音信息的中文预训练模型](https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&mid=2247484743&idx=1&sn=b715a22da6dac639b1c98f6da5e903d8&chksm=cfcad97ff8bd5069246102b4797fa55f8f9fa08291f15c5f1411560920d4f9f7fef680ac64a2&scene=21#wechat_redirect)
 - 
 
 # 长序列预训练模型
