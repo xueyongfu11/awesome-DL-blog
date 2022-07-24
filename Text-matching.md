@@ -9,4 +9,5 @@
 
 - [2020深度文本匹配最新进展：精度、速度我都要！](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247534555&idx=3&sn=9ac3ecdd66f3bc9be8cfe27135050718&chksm=90944e48a7e3c75e0c08d0b0a21a51d147dc5fde4a697caec775ceb4ac800682a0ccf1e1d32f&mpshare=1&scene=24&srcid=0916XmZ74y1eLSVwSazTGATm&sharer_sharetime=1600268113155&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A5ZY0n4H%2BzW%2F9Z%2BLBsIwWqg%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
 - [竞赛】天池-新冠疫情相似句对判定大赛top6方案及源码](https://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247490106&idx=1&sn=4f2fa8a4df430cb3aceb1094f5ca791a&source=41#wechat_redirect)
+- [深度文本检索模型：DPR, PolyEncoders, DCBERT, ColBERT](https://zhuanlan.zhihu.com/p/523879656)
 - 

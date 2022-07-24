@@ -1,6 +1,5 @@
 
 
-- [腾讯中文纠错模型 PLOME 论文详解！](https://juejin.cn/post/7039144348021162021)
 - [针对OCR的NLP纠错：从原理到实践](https://zhuanlan.zhihu.com/p/179957371)
 - [AI LIVE | 文本纠错技术探索和实践](https://zhuanlan.zhihu.com/p/159101860)
 - [NLP上层应用的关键一环——中文纠错技术简述](https://zhuanlan.zhihu.com/p/82807092)
@@ -18,6 +17,16 @@
   - 错误检测：使用序列表示+CRF方式：使用特征包括token，句法，词法信息，字词多粒度特征
   - 候选召回：包括离线候选挖掘（构建训练数据），在线的候选召回
   - 接错排序：基于受限词表的语言模型，关联知识（原始query召回部分句子）
-  文档理解知识如query中存在的实体类型
 - [医疗健康领域的短文本解析探索（三) ----文本纠错](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650415123&idx=2&sn=f3e17a19b9bb96627d24d96ee8167dc5&chksm=becda64989ba2f5fef5eac58743e17d4fc97440b11df1658d8ef50c171fb118f71f57ee58c03&mpshare=1&scene=24&srcid=0731WF3sx2ekxIjHQuttwsFS&sharer_sharetime=1596188559215&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=AxZACC%2FGGHzrwIQGtUNf4mY%3D&pass_ticket=IL%2BeHRprAt5yAlLjjC250jaLkeHDOYyDyV4vRbYX%2F0r7c3KJ%2FwPqrBhOiTesV9Z9&wx_header=0#rd)
+
+
+## 中文拼写纠错
+- [腾讯中文纠错模型 PLOME 论文详解！](https://juejin.cn/post/7039144348021162021)
+
+## 语法错误
+- [文本语法纠错不完全调研：学术界 v.s. 工业界最新研究进展](https://mp.weixin.qq.com/s/Dj8KIe6LbVGonV-Kk9mO2Q)
+- [语法纠错的研究现状](https://mp.weixin.qq.com/s/0_qp1WsrEsjnj8ST4zQyTQ)
+  - 伪标注数据生成方法
+  - 语法纠错模型介绍
 - [NLPCC2018中文语法错误修正任务分享](http://techblog.youdao.com/?p=1281)
+- [文本纠错 | 怎样改善模型对 multi-typo 的纠正效果？](https://mp.weixin.qq.com/s/GIOQo3iguAJ5MgW7MjMZww)
