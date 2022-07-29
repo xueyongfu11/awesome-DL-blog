@@ -11,11 +11,17 @@
 - [再谈类别不平衡问题：调节权重与魔改Loss的对比联系](https://kexue.fm/archives/7708)
 - [CB Loss：基于有效样本的类别不平衡损失](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247494771&idx=1&sn=f605465cd49ccf808e5dcd89833d06d6&chksm=c06a642ef71ded3872b5d79629b7f91b44e47ea8126e6cd4d40ab25806bebd7a55f8e36e9e48&mpshare=1&scene=24&srcid=0410uIDzSiQmZcw7Ze4KLvHX&sharer_sharetime=1618024133785&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A3%2BfhPu4WaPYypNvLLOSfCs%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
 - [Google Brain最新论文：标签平滑何时才是有用的？](https://www.jiqizhixin.com/articles/2019-07-09-7)
-- 
+
+
 
 ## 鲁棒性
 - [复旦张奇：如何解决NLP中的鲁棒性问题？](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247508080&idx=1&sn=3fe6c9920d93fd73c9645405ea6e95f3&chksm=febce3b4c9cb6aa2927a67bec04ca87d8cda660dbae3d25d8e381cbdbe786ef33fdf388a2973&mpshare=1&scene=24&srcid=1116RsD3z7FbUBuIFRO7emC7&sharer_sharetime=1637057596381&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Azky0WfOZTyCjp%2BewyvxTrM%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
-  
+
+
+## Attention
+- [这是一篇关于Attention的综述](https://zhuanlan.zhihu.com/p/148800609)
+- [深度学习中Attention Mechanism详细介绍：原理、分类及应用](https://zhuanlan.zhihu.com/p/31547842)
+
 
 ## Other
 

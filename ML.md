@@ -4,7 +4,10 @@
 - [线性模型（linear model）基本定义及参数求解数学本质、损失函数的选择与评估数学原理、及其基于线性模型衍生的其他机器学习模型相关原理讨论](https://www.cnblogs.com/LittleHann/p/10498579.html#_label5)
 - 
 
+## 机器学习理论
+- [变分推断——深度学习第十九章](https://zhuanlan.zhihu.com/p/49401976)
+
 ## 主题模型
 - [主题模型(topic model)到底还有没有用，该怎么用？](https://www.zhihu.com/question/34801598/answer/765580727)
 - [主题模型](https://blog.csdn.net/jiayalu/article/details/100533184)
-- 
+- [金融NLP需求落地实践总结——热门话题生成](https://zhuanlan.zhihu.com/p/268564361)
