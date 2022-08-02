@@ -23,7 +23,10 @@
 
 # 弱标签
 - [弱标签(一)：Learning from Semi-Supervised Weak-Label Data 从半监督的弱标签数据中学习](https://blog.csdn.net/weixin_43436958/article/details/105725825)
-- 
+
+
+# 面试
+- [很强！社招NLP算法收割机](https://mp.weixin.qq.com/s/gTwWw2OVTk1-ZzS6M0qDOw)
 
 
   

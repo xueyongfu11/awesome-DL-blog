@@ -70,7 +70,7 @@
 - [开放域问答系统 DrQA](https://zhuanlan.zhihu.com/p/77077948)
 - [让聊天机器人同你聊得更带劲 - 对话策略学习](https://zhuanlan.zhihu.com/p/29749869)
 - [微软小冰-多轮和情感机器人的先行者](https://mp.weixin.qq.com/s?__biz=MzIzMzYwNzY2NQ==&mid=2247485954&idx=1&sn=53c49a5af387cd86ea51a6407818e414&chksm=e882529cdff5db8a6d04891e9e939475409d547798c51f00d9fad6a695fd1d96a080160d0148&scene=21#wechat_redirect)
-
+- [训练双塔检索模型，可以不用query-doc样本了？明星机构联合发文](https://mp.weixin.qq.com/s/8NSEbRKP6tKuV7ERdC7yaQ)
 
 # Dialogue generation
 
