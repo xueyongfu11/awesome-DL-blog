@@ -11,8 +11,34 @@
 - [再谈类别不平衡问题：调节权重与魔改Loss的对比联系](https://kexue.fm/archives/7708)
 - [CB Loss：基于有效样本的类别不平衡损失](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247494771&idx=1&sn=f605465cd49ccf808e5dcd89833d06d6&chksm=c06a642ef71ded3872b5d79629b7f91b44e47ea8126e6cd4d40ab25806bebd7a55f8e36e9e48&mpshare=1&scene=24&srcid=0410uIDzSiQmZcw7Ze4KLvHX&sharer_sharetime=1618024133785&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A3%2BfhPu4WaPYypNvLLOSfCs%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
 - [Google Brain最新论文：标签平滑何时才是有用的？](https://www.jiqizhixin.com/articles/2019-07-09-7)
+- [使用一个特别设计的损失来处理类别不均衡的数据集](https://www.toutiao.com/article/6764709766112477699/)
+- [5分钟理解Focal Loss与GHM——解决样本不平衡利器](https://zhuanlan.zhihu.com/p/80594704)
+- 
 
+## LSTM
 
+- [人工智能 CNN VS LSTM 选择及优化](https://www.dazhuanlan.com/dbray/topics/1519290)
+- [pack_padded_sequence 和 pad_packed_sequence](https://zhuanlan.zhihu.com/p/342685890)
+- [人人都能看懂的GRU](https://zhuanlan.zhihu.com/p/32481747)
+- [人人都能看懂的LSTM](https://zhuanlan.zhihu.com/p/32085405)
+- [[深度学习] RNN对于变长序列的处理方法, 为什么RNN需要mask](https://blog.csdn.net/zwqjoy/article/details/95050794)
+- [Tree-Structured LSTM介绍](https://zhuanlan.zhihu.com/p/36608614)
+- 
+
+## 卷积
+- [为什么要用空洞卷积？](https://mp.weixin.qq.com/s?__biz=MzAxMjMwODMyMQ==&mid=2456342851&idx=4&sn=6556c82aaf414df0ee60774a0da98c25&chksm=8c2fab4dbb58225b6892f242ba5a881fd003d1fcc10c2d081a82fad38beb6a084c292cd36cf6&scene=0&xtrack=1&exportkey=Ay8QN8s%2FMncipMjJc0MBypo%3D&pass_ticket=LlL6Ad5uohnLAlqJrzan%2BA5dDM3m9%2Bnl4L%2FaTWpnfTNnifRhbExGygOrgXBzVB7b&wx_header=0#rd)
+- [时间卷积网络（TCN）将取代RNN成为NLP预测领域王者](https://www.toutiao.com/article/6753489961078489612/)
+- [因果卷积（causal）与扩展卷积（dilated）](https://blog.csdn.net/tonygsw/article/details/81280364)
+- [一文读懂 12种卷积方法（含1x1卷积、转置卷积和深度可分离卷积等）](https://mp.weixin.qq.com/s?__biz=MzI0NDUwNzYzMg==&mid=2247485405&idx=1&sn=61077d5709b0361f57bd86e3eb2ba580&chksm=e95df142de2a78548aa27a082bd511b54bfb9f76f9f430f17079c184f37006c111917874afe2&mpshare=1&scene=24&srcid=0924obMS666axIi3wDfaGvQh&sharer_sharetime=1569337834116&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&pass_ticket=5l2GTJoNs3UnPjzRsDzXqTZBP6%2Btylp4BwIFxk3aFUwONC5l8MJz3gdjYHCbXS%2FH#rd)
+- [关于 Network-in-network理解和实现](https://blog.csdn.net/m0_37561765/article/details/78874699)
+- [可变形卷积从概念到实现过程](https://blog.csdn.net/LEEANG121/article/details/104234927)
+- 
+
+## 梯度消失和梯度爆炸
+- [sigmoid函数解决溢出_梯度消失和梯度爆炸及解决方法](https://blog.csdn.net/weixin_39612726/article/details/111391713)
+
+## BN LN
+- [nn.LayerNorm的实现及原理](https://blog.csdn.net/weixin_41978699/article/details/122778085)
 
 ## 鲁棒性
 - [复旦张奇：如何解决NLP中的鲁棒性问题？](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247508080&idx=1&sn=3fe6c9920d93fd73c9645405ea6e95f3&chksm=febce3b4c9cb6aa2927a67bec04ca87d8cda660dbae3d25d8e381cbdbe786ef33fdf388a2973&mpshare=1&scene=24&srcid=1116RsD3z7FbUBuIFRO7emC7&sharer_sharetime=1637057596381&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Azky0WfOZTyCjp%2BewyvxTrM%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
@@ -21,9 +47,51 @@
 ## Attention
 - [这是一篇关于Attention的综述](https://zhuanlan.zhihu.com/p/148800609)
 - [深度学习中Attention Mechanism详细介绍：原理、分类及应用](https://zhuanlan.zhihu.com/p/31547842)
+- [关于Attention的总结](https://mp.weixin.qq.com/s/TV51xfQBvYf7E2kSmpJ0Og)
 
 
-## Other
+## 损失函数
+- [[损失函数]——负对数似然](https://www.jianshu.com/p/61cf7f2ac53f)
+- [Contrastive Loss](https://zhuanlan.zhihu.com/p/93917636)
+- [医学影像分割---Dice Loss](https://zhuanlan.zhihu.com/p/86704421)
+- [从NCE loss到InfoNCE loss](https://blog.csdn.net/m0_37876745/article/details/110933812)
+- 
 
+## 算法基础
 - [标签平滑Label Smoothing](https://blog.csdn.net/qq_43211132/article/details/100510113)
+- [一个小问题：深度学习模型如何处理大小可变的输入](https://mp.weixin.qq.com/s/jV_cqwZix6OPVhr2UxajYA)
+- [损失函数为什么使用交叉熵多而不是MSE（均方差）？](https://blog.csdn.net/soga235/article/details/122094044)
+- [文本分类入门（十一）特征选择方法之信息增益](http://www.blogjava.net/zhenandaci/archive/2009/03/24/261701.html)
+- [互信息（Mutual Information）的介绍](https://blog.csdn.net/qq_15111861/article/details/80724278)
+- [径向基函数（RBF）神经网络](https://blog.csdn.net/lin_angel/article/details/50725600)
+- [预测时一定要记得model.eval()!](https://zhuanlan.zhihu.com/p/356500543)
+- [bert家族中的mask机制](https://zhuanlan.zhihu.com/p/360982134)
+- [生成模型，判别模型，以及朴素贝叶斯](https://blog.csdn.net/G090909/article/details/50209189)
+- [谈谈由异常输入导致的 ReLU 神经元死亡的问题](https://liam.page/2018/11/30/vanishing-gradient-of-ReLU-due-to-unusual-input/)
+- [PyTorch || 优化神经网络训练的17种方法](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247495246&idx=1&sn=db2fdce3a5a58db29174ab163d10778a&chksm=fbfdb4d8cc8a3dcef208aaad943cdd42616476159d8abd2d7f5a045b9db5436fb7ed151ab932&mpshare=1&scene=1&srcid=0506S7D0VBmvhlM3M83tKTi6&sharer_sharetime=1620274095789&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A%2FmmbI4pcXfMW6PviF8A5CE%3D&pass_ticket=zQDDIUhIADOvRcLFnDfeb1%2FQJUysanjrtRnVNxo8e6uhRDnY1TW%2B8mgGkSdPrrW6&wx_header=0#rd)
+- [Multi-Sample Dropout](https://blog.csdn.net/weixin_37947156/article/details/95936865)
+- [常用的 Normalization 方法：BN、LN、IN、GN](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495854&idx=1&sn=e2d967621307dd2c728cc3559937e6cb&source=41#wechat_redirect)
+- [F-散度(F-divergence)](https://blog.csdn.net/UESTC_C2_403/article/details/75208644)
+- [从Softmax到AMSoftmax(附可视化代码和实现代码)](https://zhuanlan.zhihu.com/p/97475133)
+- [准确率Accuracy与损失函数Loss的关系](https://blog.csdn.net/u014421797/article/details/104689384)
+- [关于LogSumExp](https://zhuanlan.zhihu.com/p/153535799)
+- [稀疏矩阵存储格式总结+存储效率对比:COO,CSR,DIA,ELL,HYB](https://www.cnblogs.com/xbinworld/p/4273506.html)
+- [BiLSTM-CRF学习笔记（原理和理解）](https://www.cnblogs.com/Nobody0426/p/10712835.html)
+- [微调也重要：探究参数初始化、训练顺序和提前终止对结果的影响](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247503917&idx=2&sn=fe84c23bd8c42df8181042bcb715ab47&chksm=96ea0fada19d86bbc0196c5fcb4c769aec5422f85625ba7d501c34a62618a03ce24d5352ea8e&scene=0&xtrack=1&exportkey=A0vQw2ARuljx5%2BSKTALb7zc%3D&pass_ticket=2nNdCGl4e4sq9wAo0Jz1c8Wmcz0v2Ul5F4CrBxcFYeAouMQJDtkRpzhq8COdlQLP#rd)
+- [看完这篇，别说你还不懂Hinton大神的胶囊网络 ](https://www.sohu.com/a/226611009_633698)
+- [漫谈autoencoder：降噪自编码器/稀疏自编码器/栈式自编码器](https://blog.csdn.net/wblgers1234/article/details/81545079)
+- [生成模型与判别模型](https://blog.csdn.net/zouxy09/article/details/8195017)
+- [胶囊网络：更强的可解释性](https://zhuanlan.zhihu.com/p/264910554)
+- [【深度学习笔记】熵 KL散度与交叉熵](http://www.sniper97.cn/index.php/note/deep-learning/note-deep-learning/3886/)
+- [一文看懂深度学习发展史和常见26个模型](https://zhuanlan.zhihu.com/p/50967380)
+- [Adam,AdamW,LAMB优化器原理与代码](https://blog.csdn.net/weixin_41089007/article/details/107007221)
+- [激活函数综述](https://www.cnblogs.com/YoungF/p/13424038.html)
+- [欧氏距离与余弦距离的关系](https://blog.csdn.net/liuweiyuxiang/article/details/88736615)
+- [仿射VS线性全连接 双仿射VS双线性](https://zhuanlan.zhihu.com/p/358079428)
+- [Gaussian Error Linerar Units(GELUS)激活函数详细解读](https://mp.weixin.qq.com/s/I0fjxnNRPOkQN3wbZA0csA)
+- [综述：深度学习中的池化技术](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247539902&idx=2&sn=f56914d88067d5e4e4918498625df2f3&chksm=ec1cb147db6b3851bc9e65eaabd53bf011d7474f877689c66f64cbff4251fe64266147d0eb2f&mpshare=1&scene=24&srcid=0222KwjDsYBqvALlE7zhKRnL&sharer_sharetime=1613991579109&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A%2FSuuEp93Vy8FeU%2BiqNQrRQ%3D&pass_ticket=ahSCjZBnxTVe3IcKWMxBQVeAXXap9Se8HXejNWF3PIlQHiDsRH5Yr1%2FzLdG%2FTkZA&wx_header=0#rd)
+- [硬核Softmax！yyds! (面试真题，慎点！)](https://mp.weixin.qq.com/s?__biz=MzkzNDIxMzE1NQ==&mid=2247488004&idx=1&sn=e323c72c5e066def9acddaa3fdc9fdac&chksm=c241f148f536785e3283b2e554107c23e6cdffb2ca74c74c861265a0a8501f55515411fa80e1&mpshare=1&scene=24&srcid=0628rbE3Rcad0WIIky6Q0Fhm&sharer_sharetime=1624884516348&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Aw5u9UZYxqjvVUdGR3BsI10%3D&pass_ticket=ahSCjZBnxTVe3IcKWMxBQVeAXXap9Se8HXejNWF3PIlQHiDsRH5Yr1%2FzLdG%2FTkZA&wx_header=0#rd)
+- [Spatial Dropout](https://blog.csdn.net/weixin_43896398/article/details/84762943)
+- [【让模型更加谦虚】Adaptive Label Smoothing方法让模型结果更加鲁棒](https://mp.weixin.qq.com/s?__biz=MzA4MDExMDEyMw==&mid=2247489910&idx=2&sn=83f64bd846aaf8b0e2dbdeba5008d472&chksm=9fa86e32a8dfe7244453a3e8226265dcd543fa4f5020a687008600fe8e3e86f6fecdb2f0eaac&mpshare=1&scene=24&srcid=09287VzsiRZ1PwzBLs74bDyB&sharer_sharetime=1601253692847&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A3n6EZSkPRlGGg%2FRD08LKKw%3D&pass_ticket=FVXzVd6yWxG%2B0cVb1fBXuMn3sRqbaPHr1VXt2A%2BQ1R%2FpI%2Fpfv01eV0arVDwW0wda&wx_header=0#rd)
+- [谈谈评价指标中的宏平均和微平均](https://www.cnblogs.com/robert-dlut/p/5276927.html)
 - 

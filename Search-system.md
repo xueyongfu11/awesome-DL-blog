@@ -4,6 +4,7 @@
 
 - [Search-system](#search-system)
 - [Vector retrieval](#vector-retrieval)
+- [term权重计算](#term权重计算)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -20,7 +21,8 @@
 - [淘宝搜索中基于embedding的召回](https://mp.weixin.qq.com/s/775qZLQaH9IolmqvPz3Sjw)
 - [Transformer 在美团搜索排序中的实践](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651751586&idx=1&sn=a61c9da125e9b7e68473b32e0278b0ea&chksm=bd125def8a65d4f9d20b682345365d5001e9c863d5046acf683da6116b265d168c0340754fc9&scene=21#wechat_redirect)
 - [Embedding-based Retrieval in Facebook Search](https://zhuanlan.zhihu.com/p/152570715)
-  
+- [SIGIR 2020之MarkedBERT模型：加入传统检索线索的Rerank模型](https://zhuanlan.zhihu.com/p/175981489)
+- 
 
 # Vector retrieval
 
@@ -32,3 +34,10 @@
 - [Elasticsearch 向量搜索的工程化实战](https://mp.weixin.qq.com/s/DtT5NhLOInIPgqbETzNOdg)
 - [向量检索研究系列算法](https://mp.weixin.qq.com/s/hf7W8gpUAstNEBEnS9s7zQ)
 - [Faiss中的IVF,PQ,IVFPQ原理](https://zhuanlan.zhihu.com/p/356373517)
+
+# term权重计算
+- [医疗搜索中的query词权重算法探索](https://mp.weixin.qq.com/s/WD4vcoA9Xp5tTSw7U6T4Pw)
+- [query term weight计算](https://blog.csdn.net/madman188/article/details/51855265)
+- [搜索中词权重计算及实践 ](https://www.cnblogs.com/sxron/p/9992538.html)
+- [美团点评旅游搜索召回策略的演进](https://tech.meituan.com/2017/06/16/travel-search-strategy.html)
+- [教你如何动态配置词权重，检索系列文章之DeepCT论文笔记](https://zhuanlan.zhihu.com/p/147935851)

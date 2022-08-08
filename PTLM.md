@@ -49,7 +49,15 @@
 # 长序列预训练模型
 
 - [Funnel-Transformer：让Transformer更高效地处理长序列](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247509847&idx=3&sn=d5f3c8306eb57dd652e9ba3c59f00524&chksm=96ea78d7a19df1c143a8cd0b2a528e8739c57e4b0d7728e5ba942d44871ca7ec6bc730b42228&mpshare=1&scene=24&srcid=0731BIn74GuIzLEZJspB4QbG&sharer_sharetime=1596187559415&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A6eiuTHACMfX8ftAIHfv760%3D&pass_ticket=%2Fiuk0Yfg7CrYxacY%2F347pmZcCE1UxpnHXEwngLMc%2BDJTSlAVtev8q4cY8e9W%2Bxmv&wx_header=0#rd)
-
+- [线性Attention的探索：Attention必须有个Softmax吗？](https://kexue.fm/archives/7546)
+- [【论文阅读】Performer | Rethinking Attention With Performers](https://blog.csdn.net/yideqianfenzhiyi/article/details/112631729)
+- [Transformer-XL解读（论文 + PyTorch源码）](https://blog.csdn.net/Magical_Bubble/article/details/89060213)
+- [XLNet原理](http://fancyerii.github.io/2019/06/30/xlnet-theory/)
+- [NEZHA（哪吒）论文阅读笔记](https://zhuanlan.zhihu.com/p/100044919)
+- [层次分解位置编码，让BERT可以处理超长文本](https://kexue.fm/archives/7947)
+- [Big Bird：支持更长序列的 Transformer](https://baijiahao.baidu.com/s?id=1674061802676524773&wfr=spider&for=pc)
+- [Longformer：超越RoBERTa，为长文档而生的预训练模型](https://blog.csdn.net/xixiaoyaoww/article/details/107398795)
+- 
 
 # BERT前预训练
 
