@@ -25,6 +25,7 @@
   - 不通pattern对效果有很大影响
   - 构造soft label训练数据+无标签MLM任务
 - [少样本文本分类 InductionNet](https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247502646&idx=4&sn=d1cccfd219b485bf2e5b412d3f08056c&chksm=eb53dfa5dc2456b37657207d86c33758b10884f958909c982ef5926eacd5f08b220fa51536ec&mpshare=1&scene=24&srcid=0527W5ME2Zj4D1bpqs1JhWuZ&sharer_sharetime=1622127690299&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A8UlYy8n%2F03u15ioi5Fk7t8%3D&pass_ticket=ahSCjZBnxTVe3IcKWMxBQVeAXXap9Se8HXejNWF3PIlQHiDsRH5Yr1%2FzLdG%2FTkZA&wx_header=0#rd)
+- [只有少量标注样本，如何做好文本分类任务？](https://mp.weixin.qq.com/s/IwdEisDXjbyPLTjjcixqGg)
 
 
 # 多标签分类

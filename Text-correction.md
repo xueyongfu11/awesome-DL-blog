@@ -2,8 +2,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [中文拼写纠错](#%E4%B8%AD%E6%96%87%E6%8B%BC%E5%86%99%E7%BA%A0%E9%94%99)
-- [语法错误](#%E8%AF%AD%E6%B3%95%E9%94%99%E8%AF%AF)
+- [中文拼写纠错](#中文拼写纠错)
+- [语法错误](#语法错误)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -27,6 +27,8 @@
   - 候选召回：包括离线候选挖掘（构建训练数据），在线的候选召回
   - 接错排序：基于受限词表的语言模型，关联知识（原始query召回部分句子）
 - [医疗健康领域的短文本解析探索（三) ----文本纠错](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650415123&idx=2&sn=f3e17a19b9bb96627d24d96ee8167dc5&chksm=becda64989ba2f5fef5eac58743e17d4fc97440b11df1658d8ef50c171fb118f71f57ee58c03&mpshare=1&scene=24&srcid=0731WF3sx2ekxIjHQuttwsFS&sharer_sharetime=1596188559215&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=AxZACC%2FGGHzrwIQGtUNf4mY%3D&pass_ticket=IL%2BeHRprAt5yAlLjjC250jaLkeHDOYyDyV4vRbYX%2F0r7c3KJ%2FwPqrBhOiTesV9Z9&wx_header=0#rd)
+- [中文语法错误诊断CGED2021评测TOP1队伍总结](https://zhuanlan.zhihu.com/p/444117518)
+- 
 
 
 ## 中文拼写纠错

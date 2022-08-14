@@ -2,14 +2,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [综合](#%E7%BB%BC%E5%90%88)
+- [综合](#综合)
 - [Transformer](#transformer)
 - [tokenizer](#tokenizer)
 - [BERT](#bert)
-- [中文大模型](#%E4%B8%AD%E6%96%87%E5%A4%A7%E6%A8%A1%E5%9E%8B)
+- [中文大模型](#中文大模型)
 - [BERT fimaly](#bert-fimaly)
-- [长序列预训练模型](#%E9%95%BF%E5%BA%8F%E5%88%97%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B)
-- [BERT前预训练](#bert%E5%89%8D%E9%A2%84%E8%AE%AD%E7%BB%83)
+- [长序列预训练模型](#长序列预训练模型)
+- [BERT前预训练](#bert前预训练)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -68,6 +68,7 @@
 - [ENRIE(Tsinghua)：知识图谱与BERT相结合，为语言模型赋能助力](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650415030&idx=3&sn=86e28c9da6f90fb46a7d16aade947de0&chksm=becd99ec89ba10fadff1935e38ab25a665397ce37942b297c66a37889666dc56edbbeb133e06&mpshare=1&scene=24&srcid=07319ixYcn1arNxEeuAwLPYw&sharer_sharetime=1596189952608&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Azal0BPq0SW8c0Q0eRaUuWU%3D&pass_ticket=IL%2BeHRprAt5yAlLjjC250jaLkeHDOYyDyV4vRbYX%2F0r7c3KJ%2FwPqrBhOiTesV9Z9&wx_header=0#rd)
 - [XLNet:运行机制及和Bert的异同比较](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247489553&idx=2&sn=68d679ea25168b81ad86e8ce857b5a19&chksm=ebb420c5dcc3a9d36a6031c6bffb3f7e33333061b5f3bf8d783a19e5438df4616f51b2b47312&scene=0&xtrack=1&pass_ticket=5l2GTJoNs3UnPjzRsDzXqTZBP6%2Btylp4BwIFxk3aFUwONC5l8MJz3gdjYHCbXS%2FH#rd)
 - [ACL2021论文之ChineseBERT：融合字形与拼音信息的中文预训练模型](https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&mid=2247484743&idx=1&sn=b715a22da6dac639b1c98f6da5e903d8&chksm=cfcad97ff8bd5069246102b4797fa55f8f9fa08291f15c5f1411560920d4f9f7fef680ac64a2&scene=21#wechat_redirect)
+- [OPPO小布推出预训练大模型OBERT，晋升KgCLUE榜首](https://blog.csdn.net/m0_59407274/article/details/125601261)
 - 
 
 # 长序列预训练模型
@@ -83,7 +84,8 @@
 - [层次分解位置编码，让BERT可以处理超长文本](https://kexue.fm/archives/7947)
 - [Big Bird：支持更长序列的 Transformer](https://baijiahao.baidu.com/s?id=1674061802676524773&wfr=spider&for=pc)
 - [Longformer：超越RoBERTa，为长文档而生的预训练模型](https://blog.csdn.net/xixiaoyaoww/article/details/107398795)
-- 
+- [对Reformer的深入解读](https://zhuanlan.zhihu.com/p/115741192)
+
 
 # BERT前预训练
 
