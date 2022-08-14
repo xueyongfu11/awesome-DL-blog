@@ -7,8 +7,10 @@
 ## 机器学习理论
 - [变分推断——深度学习第十九章](https://zhuanlan.zhihu.com/p/49401976)
 - [【ML】LambdaMART算法原理--应用场景](https://blog.csdn.net/pearl8899/article/details/105597423)
-- 
-
+- 核函数
+  - [机器学习笔记：高斯核函数](https://blog.csdn.net/bjchenxu/article/details/107478708)
+- 判别模型与生成模型
+  - [生成模型与判别模型](https://blog.csdn.net/zouxy09/article/details/8195017)
 
 ## 主题模型
 - [主题模型(topic model)到底还有没有用，该怎么用？](https://www.zhihu.com/question/34801598/answer/765580727)
