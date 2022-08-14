@@ -4,7 +4,7 @@
 
 - [Search-system](#search-system)
 - [Vector retrieval](#vector-retrieval)
-- [term权重计算](#term权重计算)
+- [term权重计算](#term%E6%9D%83%E9%87%8D%E8%AE%A1%E7%AE%97)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

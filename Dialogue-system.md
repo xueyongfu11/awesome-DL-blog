@@ -4,7 +4,7 @@
 
 - [Blog](#blog)
 - [Survey](#survey)
-- [问答系统方案](#问答系统方案)
+- [问答系统方案](#%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E6%96%B9%E6%A1%88)
 - [Retrieval-based dialogue system](#retrieval-based-dialogue-system)
 - [FAQ](#faq)
 - [Open-domain dialogue system](#open-domain-dialogue-system)

@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [知识图谱构建](#%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%9E%84%E5%BB%BA)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 
 - [用Bi-GRU+Attention和字向量做端到端的中文关系抽取](https://mp.weixin.qq.com/s?__biz=MzA4MTk3ODI2OA==&mid=2650344186&idx=1&sn=ecbfde67368aab6e31cc54e90e915bd5&chksm=87811c09b0f6951f119821276d6a70547c35ddb74b8185307838bdc6e5ba0ec5773a27e96bc0&scene=0&xtrack=1&pass_ticket=5l2GTJoNs3UnPjzRsDzXqTZBP6%2Btylp4BwIFxk3aFUwONC5l8MJz3gdjYHCbXS%2FH#rd)

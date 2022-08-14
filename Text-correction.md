@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [中文拼写纠错](#%E4%B8%AD%E6%96%87%E6%8B%BC%E5%86%99%E7%BA%A0%E9%94%99)
+- [语法错误](#%E8%AF%AD%E6%B3%95%E9%94%99%E8%AF%AF)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 
 - [针对OCR的NLP纠错：从原理到实践](https://zhuanlan.zhihu.com/p/179957371)

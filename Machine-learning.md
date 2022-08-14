@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [机器学习理论](#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA)
+- [主题模型](#%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 
 - [为什么要做特征的归一化/标准化？](https://mp.weixin.qq.com/s/vn3Rx38zCgFj-YGCTuvekA)
