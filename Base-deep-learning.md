@@ -70,7 +70,6 @@
 ## Attention
 - [这是一篇关于Attention的综述](https://zhuanlan.zhihu.com/p/148800609)
 - [深度学习中Attention Mechanism详细介绍：原理、分类及应用](https://zhuanlan.zhihu.com/p/31547842)
-- [关于Attention的总结](https://mp.weixin.qq.com/s/TV51xfQBvYf7E2kSmpJ0Og)
 
 
 ## 损失函数
@@ -88,6 +87,14 @@
 ## 激活函数
 - [Gaussian Error Linerar Units(GELUS)激活函数详细解读](https://mp.weixin.qq.com/s/I0fjxnNRPOkQN3wbZA0csA)
 - [激活函数综述](https://www.cnblogs.com/YoungF/p/13424038.html)
+
+
+## 评价指标
+- AUC & ROC
+  - [笔记︱统计评估指标AUC 详解](https://mp.weixin.qq.com/s/6PLGH3MjpQBvkxqfGP5M4A)
+  - [如何计算AUC](https://mp.weixin.qq.com/s/SDGl1C4fCVrVYe7ZHNlAMw)
+- [谈谈评价指标中的宏平均和微平均](https://www.cnblogs.com/robert-dlut/p/5276927.html)
+
 
 ## 算法基础
 - [标签平滑Label Smoothing](https://blog.csdn.net/qq_43211132/article/details/100510113)
@@ -119,5 +126,4 @@
 - [硬核Softmax！yyds! (面试真题，慎点！)](https://mp.weixin.qq.com/s?__biz=MzkzNDIxMzE1NQ==&mid=2247488004&idx=1&sn=e323c72c5e066def9acddaa3fdc9fdac&chksm=c241f148f536785e3283b2e554107c23e6cdffb2ca74c74c861265a0a8501f55515411fa80e1&mpshare=1&scene=24&srcid=0628rbE3Rcad0WIIky6Q0Fhm&sharer_sharetime=1624884516348&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Aw5u9UZYxqjvVUdGR3BsI10%3D&pass_ticket=ahSCjZBnxTVe3IcKWMxBQVeAXXap9Se8HXejNWF3PIlQHiDsRH5Yr1%2FzLdG%2FTkZA&wx_header=0#rd)
 - [Spatial Dropout](https://blog.csdn.net/weixin_43896398/article/details/84762943)
 - [【让模型更加谦虚】Adaptive Label Smoothing方法让模型结果更加鲁棒](https://mp.weixin.qq.com/s?__biz=MzA4MDExMDEyMw==&mid=2247489910&idx=2&sn=83f64bd846aaf8b0e2dbdeba5008d472&chksm=9fa86e32a8dfe7244453a3e8226265dcd543fa4f5020a687008600fe8e3e86f6fecdb2f0eaac&mpshare=1&scene=24&srcid=09287VzsiRZ1PwzBLs74bDyB&sharer_sharetime=1601253692847&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A3n6EZSkPRlGGg%2FRD08LKKw%3D&pass_ticket=FVXzVd6yWxG%2B0cVb1fBXuMn3sRqbaPHr1VXt2A%2BQ1R%2FpI%2Fpfv01eV0arVDwW0wda&wx_header=0#rd)
-- [谈谈评价指标中的宏平均和微平均](https://www.cnblogs.com/robert-dlut/p/5276927.html)
 - 

@@ -2,13 +2,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [机器学习](#机器学习)
 - [机器学习理论](#机器学习理论)
 - [主题模型](#主题模型)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-
+## 机器学习
 - [为什么要做特征的归一化/标准化？](https://mp.weixin.qq.com/s/vn3Rx38zCgFj-YGCTuvekA)
 - [线性模型（linear model）基本定义及参数求解数学本质、损失函数的选择与评估数学原理、及其基于线性模型衍生的其他机器学习模型相关原理讨论](https://www.cnblogs.com/LittleHann/p/10498579.html#_label5)
 - 
@@ -24,6 +25,7 @@
   - [HMM到CRF 理解与学习笔记](https://cloud.tencent.com/developer/article/1821299)
   - [维特比算法(viterbi)原理以及简单实现](https://zhuanlan.zhihu.com/p/161436964)
   - [HMM——前向算法与后向算法](https://blog.csdn.net/zb1165048017/article/details/48577891)
+
 
 
 ## 主题模型
