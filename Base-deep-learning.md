@@ -41,6 +41,7 @@
 - [人人都能看懂的LSTM](https://zhuanlan.zhihu.com/p/32085405)
 - [[深度学习] RNN对于变长序列的处理方法, 为什么RNN需要mask](https://blog.csdn.net/zwqjoy/article/details/95050794)
 - [Tree-Structured LSTM介绍](https://zhuanlan.zhihu.com/p/36608614)
+- [LSTM网络参数计算](https://zhuanlan.zhihu.com/p/52618361)
 - 
 
 ## 卷积

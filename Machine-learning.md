@@ -21,6 +21,11 @@
   - [机器学习笔记：高斯核函数](https://blog.csdn.net/bjchenxu/article/details/107478708)
 - 判别模型与生成模型
   - [生成模型与判别模型](https://blog.csdn.net/zouxy09/article/details/8195017)
+- HMM & CRF
+  - [HMM到CRF 理解与学习笔记](https://cloud.tencent.com/developer/article/1821299)
+  - [维特比算法(viterbi)原理以及简单实现](https://zhuanlan.zhihu.com/p/161436964)
+  - [HMM——前向算法与后向算法](https://blog.csdn.net/zb1165048017/article/details/48577891)
+
 
 
 ## 主题模型
