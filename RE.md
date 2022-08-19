@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [知识图谱构建](#%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%9E%84%E5%BB%BA)
+- [知识图谱构建](#知识图谱构建)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -19,7 +19,8 @@
 - [少样本关系抽取技术](https://zhuanlan.zhihu.com/p/159438322)
 - [关系抽取SOTA之分区过滤网络(PFN)](https://mp.weixin.qq.com/s/KcDFV3Q5qZ1y2HVKAXuMyw)
 - [基于关系图的实体关系联合抽取](https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247491439&idx=2&sn=3d0c54f68f33067ee6d81da3ffb92cf4&chksm=eb500bfcdc2782eaca83da8bf65eaed7de19a12bae4d7c6bef631666f2532e314edfaa3c8df8&mpshare=1&scene=24&srcid=073120vHpVYa7QqTDluwEj48&sharer_sharetime=1596189919194&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A1HF0o2K06S%2BaIUaV%2BYaa%2FA%3D&pass_ticket=IL%2BeHRprAt5yAlLjjC250jaLkeHDOYyDyV4vRbYX%2F0r7c3KJ%2FwPqrBhOiTesV9Z9&wx_header=0#rd)
-
+- [绝了！关系抽取新SOTA](https://mp.weixin.qq.com/s/02JaIPIc3VJh0tIooZx4iQ)
+- 
 
 
 # 知识图谱构建

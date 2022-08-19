@@ -20,7 +20,8 @@
 
 - [别再喊我调参侠！“科学炼丹”手册了解一下](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247509654&idx=4&sn=83cf21a691fcbda2d23da2f90a0cc74a&chksm=ebb79e42dcc017547e0ff74d5b5dadd47093bbe6f4ea88df4eef8f1fa53f3f9e84de8a7381ef&mpshare=1&scene=24&srcid=0914xItIxeUi2WeFKSnHnUiD&sharer_sharetime=1600086256417&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Axr3KraCcLF9CvokUxRUIqo%3D&pass_ticket=FVXzVd6yWxG%2B0cVb1fBXuMn3sRqbaPHr1VXt2A%2BQ1R%2FpI%2Fpfv01eV0arVDwW0wda&wx_header=0#rd)
 - [【实验笔记】深度学习中的两种不确定性（上）](https://zhuanlan.zhihu.com/p/56986840)
-- 
+- [深度学习刷 SOTA 有哪些 trick？](https://mp.weixin.qq.com/s/E5NTSHk73W-cqCbWLtZbLQ)
+- [涵盖1600+任务的巨型Benchmark来了！跑个测试花一周？？](https://mp.weixin.qq.com/s/fg9bylclTe0oiPlk3rQkSA)
 
 # NLP综述
 - [写了一篇关于 NLP 综述的综述！](https://mp.weixin.qq.com/s/1wFVGErO3kVabnQpoMR3dw)
@@ -59,6 +60,7 @@
 # 知识标注和挖掘
 - [解语：如何从零样本做中文文本知识标注与挖掘？](https://mp.weixin.qq.com/s/8nuwg8RUSbAB-MsWG0XI2g)
 
+
 # 主动学习
 - [主动学习（Active Learning）概述及最新研究](https://mp.weixin.qq.com/s/QJBDyXCfFi7fE0uFxNejfw)
 - [主动学习（Active Learning）-少标签数据学习](https://zhuanlan.zhihu.com/p/79764678)
@@ -70,6 +72,7 @@
 
 # 弱标签
 - [弱标签(一)：Learning from Semi-Supervised Weak-Label Data 从半监督的弱标签数据中学习](https://blog.csdn.net/weixin_43436958/article/details/105725825)
+
 
 # 对抗学习
 - [论文阅读：对抗训练（adversarial training）](https://zhuanlan.zhihu.com/p/104040055)
