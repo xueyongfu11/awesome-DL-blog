@@ -29,6 +29,9 @@
   - bert模型在几种模型压缩方法上的具体操作方法
 - [bert家族模型的压缩与蒸馏](https://mp.weixin.qq.com/s/UNHu1eVNorWWKbDb0XBJcA)
   - albert, tinyBert, distilBert等
+- [MobileBERT：一种任务无关的模型压缩方法](https://zhuanlan.zhihu.com/p/160833990)
+- [NeurIPS 2020 | MiniLM：预训练语言模型通用压缩方法](https://zhuanlan.zhihu.com/p/298390577)
+
 
 # Survey
 
