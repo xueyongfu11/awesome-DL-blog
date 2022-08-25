@@ -4,6 +4,7 @@
 
 - [机器学习](#机器学习)
 - [机器学习理论](#机器学习理论)
+- [聚类](#聚类)
 - [主题模型](#主题模型)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -27,8 +28,12 @@
   - [HMM——前向算法与后向算法](https://blog.csdn.net/zb1165048017/article/details/48577891)
   - [BiLSTM中的CRF层（三）CRF损失函数](https://blog.csdn.net/u013963380/article/details/108696552)
 
+## 聚类
+- [情报分析必读：情报分析开源项目合集与single-pass自动文本聚类算法实现](https://mp.weixin.qq.com/s/HLmvonxnqZvZH08x3WM94g)
+- 
 
 ## 主题模型
 - [主题模型(topic model)到底还有没有用，该怎么用？](https://www.zhihu.com/question/34801598/answer/765580727)
 - [主题模型](https://blog.csdn.net/jiayalu/article/details/100533184)
 - [金融NLP需求落地实践总结——热门话题生成](https://zhuanlan.zhihu.com/p/268564361)
+- [BERTopic：NLP主题模型的未来！](https://mp.weixin.qq.com/s/DUiE71-qnYlQnYO_gL-YAA)

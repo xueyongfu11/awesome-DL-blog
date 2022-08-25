@@ -19,7 +19,7 @@
 - [文本生成系列之encoder-decoder](https://mp.weixin.qq.com/s/kSuWmBqBBxWPAbPr7g8GJQ)
 - [基于预训练语言模型的文本生成研究综述](https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247506342&idx=2&sn=8ad67536557d8e4b089807453bd17821&chksm=eb53cd35dc2444237ec03d81e4b54e10a3ffb66a220e41c37d24590bc5cdb84bc1eaa676669f&mpshare=1&scene=24&srcid=1008GbE7ljpCQHuWbu8kAoxV&sharer_sharetime=1633693015637&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A5faGVLyaBD78Sz1oIMALhU%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
 - [展望文本生成任务十大趋势丨AI Drive深度](https://mp.weixin.qq.com/s?__biz=MzU2ODY2MTUwNQ==&mid=2247532136&idx=1&sn=7f6e0958c8b4f8dd7c59c76e649d9336&chksm=fc88bd06cbff341090d6a5c5ddf4416bb081aea0c14f57b743923a79598de5ee4728b0c1d8cd&mpshare=1&scene=24&srcid=0930JjLhiQtVM8BMSMC4auFj&sharer_sharetime=1632996557891&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=AwZTC5aHRpPvtkSpUNugaZk%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
-- 
+- [文本生成系列之预训练模型](https://mp.weixin.qq.com/s/enQr4IXgiCbLTuP__rZatg)
 
 
 # 抽取式摘要

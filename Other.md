@@ -50,11 +50,14 @@
 - [如何做好文本关键词提取？从三种算法说起](https://www.jiqizhixin.com/articles/2018-11-14-17)
 - [NLP之关键词提取](https://blog.csdn.net/qq_38923076/article/details/81630442)
 - [关键词提取算法总结、探索、实践](https://zhuanlan.zhihu.com/p/354871225)
-
+- [如何提取关键词？ECIR2022最新《关键词提取》教程，](https://mp.weixin.qq.com/s/9yOpuyZZc9Z9rgyRGJa4IQ)
 
 # 异常检测
 
 - [NLP中如何有效应用异常检测？](https://mp.weixin.qq.com/s?__biz=MzU5MzcwODE3OQ==&mid=2247485640&idx=1&sn=c80531ec5d23018a4b09fdb9d7bdf03e&chksm=fe0d1d34c97a94225f23cfd13c38dfb78df2e7c4503c2dc3b3e5c61bd40e1f1b61ed2763b3fb&mpshare=1&scene=24&srcid=11034CdQP7mFH07da843qb8o&sharer_sharetime=1635951375525&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A5ArF6B%2F3lWcxfMpk4PqPug%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
+
+## 分级算法
+- [分级利器 Ordinal Regression](https://mp.weixin.qq.com/s/xhy9SE6lS-kfNWxmp2ftlw)
 
 
 # 知识标注和挖掘
@@ -86,6 +89,9 @@
 - [一些NLP的面试问题](https://blog.csdn.net/weixin_42137700/article/details/104406354)
 - [BAT机器学习面试1000题系列（详细版）](https://blog.csdn.net/weixin_40355324/article/details/80426952)
 - [Awesome！算法面试知识点整理](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247491958&idx=2&sn=8b2c6eb5bdc33879e1172e9dfaf9dcbf&chksm=97ad07a4a0da8eb238d31641bdbe66515f41cd9c87a4fcbd113a54a0087a445322c8e30bd4b6&mpshare=1&scene=24&srcid=0527Ky3q8qMbqB6tKKxsiGjC&sharer_sharetime=1622905854803&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A%2B9BUQQev5mKA2i0obevafE%3D&pass_ticket=ahSCjZBnxTVe3IcKWMxBQVeAXXap9Se8HXejNWF3PIlQHiDsRH5Yr1%2FzLdG%2FTkZA&wx_header=0#rd)
+- [校招算法岗知识点总结](https://mp.weixin.qq.com/s/lNvu_0PIKyXhKTN_R1lh3g)
+- [【算法岗求职笔记】决策树 · 二十一问二十一答](https://mp.weixin.qq.com/s/sJRKMXi3p72YhNKIuAPi5Q)
+- [面试官如何判断面试者的机器学习水平？](https://mp.weixin.qq.com/s/lY4U99uGYmbNb9Oh9Sd-lw)
 - 
 
   

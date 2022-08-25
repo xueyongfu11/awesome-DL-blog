@@ -32,6 +32,11 @@
 - [transformer中为什么使用不同的K 和 Q， 为什么不能使用同一个值？](https://www.zhihu.com/question/319339652)
 - [transformer面试题的简单回答](https://zhuanlan.zhihu.com/p/363466672)
 
+- [在注意力中重新思考Softmax：分解非线性，这个线性Transformer变体实现多项SOTA](https://mp.weixin.qq.com/s/tQmRUee_Yj-J_ljZGV1uFQ)
+- [FLASH：可能是近来最有意思的高效Transformer设计](https://kexue.fm/archives/8934)
+- [Transformer的一家！](https://mp.weixin.qq.com/s/f1OajymdtvswzFw_UunLlw)
+- [分解非线性，这个线性transformer变体实现多项SOTA](https://mp.weixin.qq.com/s/7CRFr0fEQx7mpgWtAzAeXA)
+- 
 
 # tokenizer
 - [BPE 算法详解](https://wmathor.com/index.php/archives/1517/)
@@ -72,7 +77,7 @@
 - [XLNet:运行机制及和Bert的异同比较](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247489553&idx=2&sn=68d679ea25168b81ad86e8ce857b5a19&chksm=ebb420c5dcc3a9d36a6031c6bffb3f7e33333061b5f3bf8d783a19e5438df4616f51b2b47312&scene=0&xtrack=1&pass_ticket=5l2GTJoNs3UnPjzRsDzXqTZBP6%2Btylp4BwIFxk3aFUwONC5l8MJz3gdjYHCbXS%2FH#rd)
 - [ACL2021论文之ChineseBERT：融合字形与拼音信息的中文预训练模型](https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&mid=2247484743&idx=1&sn=b715a22da6dac639b1c98f6da5e903d8&chksm=cfcad97ff8bd5069246102b4797fa55f8f9fa08291f15c5f1411560920d4f9f7fef680ac64a2&scene=21#wechat_redirect)
 - [OPPO小布推出预训练大模型OBERT，晋升KgCLUE榜首](https://blog.csdn.net/m0_59407274/article/details/125601261)
-- 
+- [ACL2022 | NoisyTune：微调前加入少量噪音可能会有意想不到的效果](https://mp.weixin.qq.com/s/6VXlc7GCjOM7BL4tPx9Mfw)
 
 # 长序列预训练模型
 

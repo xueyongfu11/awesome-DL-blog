@@ -16,7 +16,9 @@
   - paper:Do We Really Need Model Compression?
   - 解释相对直接训练一个小模型，先训练大模型再进行蒸馏到小模型的必要性。直接训练一个小模型可能是非凸的，难以进行优化
   - 训练有素的神经网络存在某种简单性，比如：许多权重接近于0，矩阵是可以低秩分解的，权重可以使用少量的比特来表示，层直接趋向于学习相同的特征
-  
+- [「深度学习中知识蒸馏」最新2022研究综述](https://mp.weixin.qq.com/s/2cgUFClQeJ2Jss6adDjUjA)
+
+
 ## bert
 
 - [所有你要知道的 BERT 模型压缩方法，都在这里！](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495697&idx=3&sn=445b198682cdd7afa9e5b9a105d280af&source=41#wechat_redirect)

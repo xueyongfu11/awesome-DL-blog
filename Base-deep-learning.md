@@ -31,7 +31,8 @@
 - [Google Brain最新论文：标签平滑何时才是有用的？](https://www.jiqizhixin.com/articles/2019-07-09-7)
 - [使用一个特别设计的损失来处理类别不均衡的数据集](https://www.toutiao.com/article/6764709766112477699/)
 - [5分钟理解Focal Loss与GHM——解决样本不平衡利器](https://zhuanlan.zhihu.com/p/80594704)
-- 
+
+- [深入研究不平衡回归问题](https://mp.weixin.qq.com/s/2LzMGvS3aN2HSg2jhoDREA)
 
 ## LSTM
 

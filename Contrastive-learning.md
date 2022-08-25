@@ -30,7 +30,8 @@
 - [你可能不需要BERT-flow：一个线性变换媲美BERT-flow](https://kexue.fm/archives/8069)
 - [丹琦女神新作：对比学习，简单到只需要Dropout两下](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247533410&idx=4&sn=30b4ebac4e5a53f7d4ab26e2830d5ce9&chksm=ebb77bb6dcc0f2a0d557fe7515741912a8503b556835b37a5c6ea7ac5ad1da4fcc981c0ab5fc&mpshare=1&scene=1&srcid=04283B09OrgnfhsQpAHFDrNv&sharer_sharetime=1619603216960&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A%2FhTSAed3D5EZ8yiQ3jReaE%3D&pass_ticket=ByIBSOIYAHACqz3WJN1dcPN%2B9hph%2BWklKYhLMYomHQ%2FGnhOMle2hsSltuKWZesaz&wx_header=0#rd)
 - [基于对比学习(Contrastive Learning)的文本表示模型为什么能学到语义相似度？](https://mp.weixin.qq.com/s/mX12zl5KTmcZDHPlVl8NZg)
-
+- [Open-AI：基于对比学习的无监督预训练](https://mp.weixin.qq.com/s/7S06f0WoXEqvvLNXm4tYjg)
+- [ACL2022 | 反向预测更好？基于反向提示的小样本槽位标注方法](https://mp.weixin.qq.com/s/pONO9Ta-pW7p7x9O605t1g)
 
 
 # CV

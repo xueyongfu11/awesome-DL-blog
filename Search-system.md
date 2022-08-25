@@ -1,5 +1,10 @@
 
 
+## 电商搜索
+- [电商搜索的语义理解问题](https://mp.weixin.qq.com/s?__biz=MzkxMjM2MDIyNQ==&mid=2247504311&idx=1&sn=374c17fac91750ee7f475eae51f6ed0a&source=41#wechat_redirect)
+- 
+
+
 ## term权重计算
 - [医疗搜索中的query词权重算法探索](https://mp.weixin.qq.com/s/WD4vcoA9Xp5tTSw7U6T4Pw)
 - [query term weight计算](https://blog.csdn.net/madman188/article/details/51855265)

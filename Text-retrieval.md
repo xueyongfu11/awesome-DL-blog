@@ -18,10 +18,12 @@
 - [Transformer 在美团搜索排序中的实践](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651751586&idx=1&sn=a61c9da125e9b7e68473b32e0278b0ea&chksm=bd125def8a65d4f9d20b682345365d5001e9c863d5046acf683da6116b265d168c0340754fc9&scene=21#wechat_redirect)
 - [Embedding-based Retrieval in Facebook Search](https://zhuanlan.zhihu.com/p/152570715)
 - [SIGIR 2020之MarkedBERT模型：加入传统检索线索的Rerank模型](https://zhuanlan.zhihu.com/p/175981489)
-
+- [双塔模型的最强出装，谷歌又开始玩起“老古董”了？](https://mp.weixin.qq.com/s/crEfe6Zb7q1AoTGrOAmcCQ)
+- 
 
 ## 交互模型
-
+- [Dual-Cross-Encoder：面向稠密向量检索的Query深度交互的文档多视角表征](https://mp.weixin.qq.com/s/vbtyqWchdfd3loqUsjQJ7w)
+- [如何引入外部知识增强短文本匹配？](https://mp.weixin.qq.com/s/mdNGA97bypX6fK3c5ti3kg)
 
 ## 交互和双塔结合
 - [交互模型你快跑，双塔要卷过来了](https://mp.weixin.qq.com/s/UF0cI7M1-tHBo45BujmQCg)
