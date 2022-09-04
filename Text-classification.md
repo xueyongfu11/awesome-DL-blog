@@ -28,6 +28,9 @@
 - [只有少量标注样本，如何做好文本分类任务？](https://mp.weixin.qq.com/s/IwdEisDXjbyPLTjjcixqGg)
   - 主要思想是对文本进行更好的向量表示，然后以向量为特征使用SVM算法进行分类
 - [ACL2022 | KPT: 文本分类中融入知识的Prompt Verbalizer](https://mp.weixin.qq.com/s/20nwLbn1hezf_BICgdhRzg)
+- [小样本学习--笔记整理](https://blog.csdn.net/u010138055/article/details/90690606)
+
+
 
 # 多标签分类
 

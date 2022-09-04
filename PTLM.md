@@ -9,6 +9,7 @@
 - [中文大模型](#中文大模型)
 - [BERT fimaly](#bert-fimaly)
 - [长序列预训练模型](#长序列预训练模型)
+- [Parameter-efficient](#parameter-efficient)
 - [BERT前预训练](#bert前预训练)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -93,6 +94,13 @@
 - [Big Bird：支持更长序列的 Transformer](https://baijiahao.baidu.com/s?id=1674061802676524773&wfr=spider&for=pc)
 - [Longformer：超越RoBERTa，为长文档而生的预训练模型](https://blog.csdn.net/xixiaoyaoww/article/details/107398795)
 - [对Reformer的深入解读](https://zhuanlan.zhihu.com/p/115741192)
+
+
+# Parameter-efficient
+- [Parameter-Efficient Fine-tuning 相关工作梳理](https://mp.weixin.qq.com/s/sOPxL_Lq4lg3tbIsmEoMuw)
+  - 综述性
+- [Parameter-efficient transfer learning系列之Adapter](https://mp.weixin.qq.com/s/GHF2T0fk7PpolX-zqbDJJQ)
+- [Parameter-efficient transfer learning系列之LoRA与BitFit](https://mp.weixin.qq.com/s/ge7jPUAGK4KSQ4dAlGLnrA)
 
 
 # BERT前预训练
