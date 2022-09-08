@@ -7,13 +7,17 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-- [清华刘知远团队巨作！Pre-trained Prompt Tuning框架，让超大模型调参变简单](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247504370&idx=1&sn=e60ebc2f9fc5275b37a9deeebd50c677&chksm=97e9fb97a09e72813e0948b4b4c40dbd94b8af77977adea57b548536ad412a3540281f4682e0&mpshare=1&scene=1&srcid=1122Qjs3ecC4L5eWfopbmdIf&sharer_sharetime=1637567547347&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A%2BtWrrKsZMbybvndIh5ORIE%3D&pass_ticket=FVXzVd6yWxG%2B0cVb1fBXuMn3sRqbaPHr1VXt2A%2BQ1R%2FpI%2Fpfv01eV0arVDwW0wda&wx_header=0#rd)
+- [few-shot learning/one-shot learning 小样本/零样本学习 学习笔记](https://zhuanlan.zhihu.com/p/491874355)
+  - few shot详解
 - [ICLR2021 Oral ｜利用一个样本估计类别数据分布 9行代码提高少样本学习泛化能力](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247522643&idx=3&sn=60cd51528782a6126ca0113fd9c3cab9&chksm=ebb7a187dcc0289130ae0414d84764193b3aebdc6a8e049c9a9c70869de87824c547286940ea&mpshare=1&scene=24&srcid=01166T1Y6rSZMCSex6proUEv&sharer_sharetime=1610754651528&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A4rWklIYxqPLyP3diHY%2Fyh0%3D&pass_ticket=FVXzVd6yWxG%2B0cVb1fBXuMn3sRqbaPHr1VXt2A%2BQ1R%2FpI%2Fpfv01eV0arVDwW0wda&wx_header=0#rd)
 - [小样本学习只是一场学术界自嗨吗](https://mp.weixin.qq.com/s/hRoFMGtNg6OX_Ik5OpUXAQ)
 
 
 ## 综述性
 
+- [清华大学张长水最新综述：少样本学习](https://zhuanlan.zhihu.com/p/272705459)
+- [论文笔记-少样本学习综述：小样本学习研究综述（中科院计算所）](https://zhuanlan.zhihu.com/p/389781532#:~:text=%E6%9C%AC%E6%96%87%E5%B0%86%E5%B0%8F%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0,%E6%8D%AE%E5%A2%9E%E5%BC%BA%E3%80%81%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0)
+- [Few-Shot Learning (FSL): 小样本学习简介及其应用](https://blog.csdn.net/qq_26815239/article/details/114372563)
 - [小样本学习（Few-shot Learning）综述](https://zhuanlan.zhihu.com/p/61215293)
   - 总结model-based,metric-based,optimization-based等相关方法
   - model-based：使用external memory

@@ -3,6 +3,7 @@
 - [百度UIE](https://mp.weixin.qq.com/s/rumCvg9KFbzlwblNwPgF9w)
   - 基于prompt的多任务信息抽取统一建模，方法是是使用结构化模型提示器（SSI，Structural Schema Instructor）
 
+- [清华刘知远团队巨作！Pre-trained Prompt Tuning框架，让超大模型调参变简单](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247504370&idx=1&sn=e60ebc2f9fc5275b37a9deeebd50c677&chksm=97e9fb97a09e72813e0948b4b4c40dbd94b8af77977adea57b548536ad412a3540281f4682e0&mpshare=1&scene=1&srcid=1122Qjs3ecC4L5eWfopbmdIf&sharer_sharetime=1637567547347&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A%2BtWrrKsZMbybvndIh5ORIE%3D&pass_ticket=FVXzVd6yWxG%2B0cVb1fBXuMn3sRqbaPHr1VXt2A%2BQ1R%2FpI%2Fpfv01eV0arVDwW0wda&wx_header=0#rd)
 - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://zhuanlan.zhihu.com/p/395795968)
 - [格局打开，带你解锁 prompt 的花式用法](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247519306&idx=1&sn=467249e890b2f96994cc46f883844da2&chksm=970fa49ca0782d8a3b201ec13701cff9856f3c01018d36a087270ced3ebc25952a35e80e856e&mpshare=1&scene=1&srcid=1122uSw0YqDDkjNBTrYwQs5C&sharer_sharetime=1637567513889&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A8WdBjhyi7CJrwIkvFEJfaQ%3D&pass_ticket=FVXzVd6yWxG%2B0cVb1fBXuMn3sRqbaPHr1VXt2A%2BQ1R%2FpI%2Fpfv01eV0arVDwW0wda&wx_header=0#rd)
   - prompt的应用案例分析，在文本分类，抽取等任务有很好的效果
