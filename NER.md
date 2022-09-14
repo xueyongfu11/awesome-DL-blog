@@ -33,7 +33,9 @@
 - [缺少训练样本怎么做实体识别？小样本下的NER解决方法汇总](https://mp.weixin.qq.com/s/lRNABGEqf5qxreiR27BpAQ)
 - [COLING 2022 | 少样本NER：分散分布原型增强的实体级原型网络](https://mp.weixin.qq.com/s/vdNKuZRg2Umst0TSn3p2Qw)
 - [ACL 2022 | 基于自描述网络的小样本命名实体识别](https://mp.weixin.qq.com/s/WUjK6qM7qkLs66aMoLYaIA)
-- 
+- [中文小样本NER模型方法总结和实战](https://mp.weixin.qq.com/s/NgCY9U1vMrg99GeoiRDtfQ)
+
+
 
 
 ## 地址解析
