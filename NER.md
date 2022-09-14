@@ -11,7 +11,6 @@
 
 
 # NER
-- [BiLSTM上的CRF，用命名实体识别任务来解释CRF](https://mp.weixin.qq.com/s/2Eq1tSt0Wqxh8MULR27qYA)
 - [融合知识的中文医疗实体识别模型](http://www.scicat.cn/yy/20211208/108868.html)
   - 通过构建好的实体库来对文本进行预打标，将预标注结果作为bert模型的输入
 - [中文NER | 江南大学提出NFLAT：FLAT的一种改进方案](https://mp.weixin.qq.com/s/-bpr3ySRaPZqRdJgI21A6w)
@@ -22,6 +21,7 @@
 - [文本生成系列之transformer结构扩展（二）](https://mp.weixin.qq.com/s/brifykEle1Rd7v5F0YxdSg)
 - [知识融入语言模型——ERNIE与ERNIE](https://mp.weixin.qq.com/s/trAwVkbwKqUmC5sUbC_S0w)
 - [不拆分单词也可以做NLP，哈工大最新模型在多项任务中打败BERT，还能直接训练中文](https://mp.weixin.qq.com/s/UBoMRmymwnw9Ds3S3OW6Mw)
+- [BiLSTM上的CRF，用命名实体识别任务来解释CRF](https://mp.weixin.qq.com/s/2Eq1tSt0Wqxh8MULR27qYA)
 - 
 
 
@@ -33,7 +33,9 @@
 - [缺少训练样本怎么做实体识别？小样本下的NER解决方法汇总](https://mp.weixin.qq.com/s/lRNABGEqf5qxreiR27BpAQ)
 - [COLING 2022 | 少样本NER：分散分布原型增强的实体级原型网络](https://mp.weixin.qq.com/s/vdNKuZRg2Umst0TSn3p2Qw)
 - [ACL 2022 | 基于自描述网络的小样本命名实体识别](https://mp.weixin.qq.com/s/WUjK6qM7qkLs66aMoLYaIA)
-- 
+- [中文小样本NER模型方法总结和实战](https://mp.weixin.qq.com/s/NgCY9U1vMrg99GeoiRDtfQ)
+
+
 
 
 ## 地址解析
