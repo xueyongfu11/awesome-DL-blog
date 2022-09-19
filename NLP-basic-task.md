@@ -1,5 +1,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [分词](#分词)
@@ -7,13 +9,11 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
 # 分词
 
 - [【NLP】N-LTP：基于预训练模型的中文自然语言处理平台](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247495412&idx=2&sn=c6dfe90e702e18a86acd6ea64aec6931&chksm=97076548a070ec5e2a674f7d30634443d39788f81e8d48ed9fde7af79995e918da9e8fdcb0b6&mpshare=1&scene=1&srcid=0729FUPH7t4oyOmsOMDAGren&sharer_sharetime=1627544054304&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A%2FUHgQdNqoZmuu9OgBXo03Y%3D&pass_ticket=3SRJ9AG0W3WIPgowkq1KaNo%2Fj2unD8WE2S7tLNhwh80shO5fHH%2BNT4K4kYBzHoAI&wx_header=0#rd)
 - [中文分词性能对比](https://zhuanlan.zhihu.com/p/53875223)
 - [有哪些比较好的中文分词方案？](https://www.zhihu.com/question/19578687/answer/828011367)
-
 
 # 语义角色分析
 
@@ -25,4 +25,4 @@
 - [Deep Biaffine Attention for Dependency Parsing](https://zhuanlan.zhihu.com/p/71553871)
 - [百度中文依存句法分析工具DDParser重磅开源](https://mp.weixin.qq.com/s?__biz=MzUxNzk5MTU3OQ==&mid=2247487938&idx=1&sn=2d025c573358c1665f983cea4b3e02b9&chksm=f98eec36cef965205148c47db24896d58bf5c3c660726a4cb8a36cd555aa2580f2f44ccb472c&mpshare=1&scene=24&srcid=0806jlLR4fgrtjThTIRZoFq0&sharer_sharetime=1596715414548&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A1OrUp6%2FpwKPTpkBOqyoKgc%3D&pass_ticket=LlL6Ad5uohnLAlqJrzan%2BA5dDM3m9%2Bnl4L%2FaTWpnfTNnifRhbExGygOrgXBzVB7b&wx_header=0#rd)
 - [句法分析 (syntactic parsing) 在 NLP 领域的应用是怎样的？](https://www.zhihu.com/question/39034550?sort=created)
-- 
+-

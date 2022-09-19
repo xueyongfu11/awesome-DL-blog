@@ -60,6 +60,8 @@
 # 中文大模型
 
 - [悟道大模型](https://wudaoai.cn/home)
+- [“封神榜”大模型](https://www.idea.edu.cn/fengshenbang-lm.html)
+  - https://github.com/IDEA-CCNL/Fengshenbang-LM
 
 
 # BERT fimaly
