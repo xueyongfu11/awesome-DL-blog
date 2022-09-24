@@ -14,6 +14,7 @@
 - [CVPR 2022文档图像分析与识别相关论文26篇汇集简介](https://mp.weixin.qq.com/s/rHQ7x1EyKGY0OhZPJWyGwA)
 
 ## 文档信息抽取
+- [多模态预训练模型指北](https://mp.weixin.qq.com/s/x36gft6F6wjeQtnizqgHTA)
 - [[ACL2022] FormNet：表单文档信息抽取中超越序列建模的结构编码方法](https://mp.weixin.qq.com/s/TlA9Juj7k-Fd2wMfVck1sw)
   - 在transformer之前引入GCN
 - [微软文档智能](https://www.microsoft.com/en-us/research/project/document-ai/)
