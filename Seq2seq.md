@@ -9,11 +9,11 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
+## 汇总
 - [PointerNet和CopyNet-4篇paper](https://zhuanlan.zhihu.com/p/73590690)
 
 
-# 文本生成
+## 文本生成
 - [预训练模型ProphetNet：根据未来文本信息进行自然语言生成](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650412511&idx=1&sn=088ac8d7fc7c6306d7cc153d560d52f0&chksm=becd938589ba1a932fe2da235ba091da67b56fbc8f7189679ea183c4eac7f734efb34f0172c6&scene=0&xtrack=1&exportkey=A1FaUDZZyWfHc9mFnP2yqh8%3D&pass_ticket=Df0Hp50Eu2KPStu3JpQZ9Z6bR9SWbRuBOlf%2B3ZYlN45nWCSRWViMRhGlg2I6f9uz#rd)
 - [高效的文本生成方法 — LaserTagger 现已开源](https://mp.weixin.qq.com/s?__biz=MzU1OTMyNDcxMQ==&mid=2247487770&idx=1&sn=80f544fe4967b0d27d2fde4ae85536e1&chksm=fc185a52cb6fd344e77133b6bd420e5939ff3d7643d44001e57b14f61eda7038e10cf92d1435&scene=0&xtrack=1&exportkey=A%2BipZQYNNvKCbP0eE4FMyTU%3D&pass_ticket=Df0Hp50Eu2KPStu3JpQZ9Z6bR9SWbRuBOlf%2B3ZYlN45nWCSRWViMRhGlg2I6f9uz#rd)
 - [文本生成系列之encoder-decoder](https://mp.weixin.qq.com/s/kSuWmBqBBxWPAbPr7g8GJQ)
@@ -22,12 +22,12 @@
 - [文本生成系列之预训练模型](https://mp.weixin.qq.com/s/enQr4IXgiCbLTuP__rZatg)
 
 
-# 抽取式摘要
+## 抽取式摘要
 - [【摘要】抽取式摘要：TextRank和BertSum](https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247488483&idx=4&sn=3d6133e6188add11732724ef47dda96a&chksm=eb500770dc278e66bea9697dad4c82ad9b242b0bc2605a5888e122184cd84c5e3e4bd1da29d2&mpshare=1&scene=1&srcid=1014vo5R8E8vwFq0ktmneOnu&sharer_sharetime=1634188997687&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Ax%2FH0XpHTgQvCExXedYkzVg%3D&pass_ticket=R1AweeLAWw%2BNiXhIzTTZdwZWN39nPReyTpdWsFh9sTncp4d5JndrGpttZpZcXaVF&wx_header=0#rd)
 - 
 
 
-# 文本摘要
+## 文本摘要
 - [CALMS：多语言摘要中的信息抽取与共享 | ​ACL 2021 Findings](https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247504394&idx=3&sn=5f6a43a8b93ab4f70ddce3dd4ffb1780&chksm=eb53c699dc244f8ff5e1048a0c6c7a295b5cb04e64f04815d6d4cae42df73410130a84c4829d&mpshare=1&scene=1&srcid=1014QDnerNuDwG3mSyOVxnpi&sharer_sharetime=1634188784342&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Axla%2BWoes26wz6f4mm7S0ec%3D&pass_ticket=R1AweeLAWw%2BNiXhIzTTZdwZWN39nPReyTpdWsFh9sTncp4d5JndrGpttZpZcXaVF&wx_header=0#rd)
 - [事实感知的生成式文本摘要](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247515144&idx=3&sn=c3c56e3a51a44a4a99148323f38931f6&chksm=ebb784dcdcc00dca4b76e38c9d2b64856731e804c2807b8cd1e8c6ba74d5f1ec66ef6796674d&mpshare=1&scene=1&srcid=1014gwJaHI8KigJAgEE4yEfK&sharer_sharetime=1634188714391&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A4WR4206kt3JmRQWVix53lw%3D&pass_ticket=R1AweeLAWw%2BNiXhIzTTZdwZWN39nPReyTpdWsFh9sTncp4d5JndrGpttZpZcXaVF&wx_header=0#rd)
 - [ACL 2021 | SimCLS: 概念简单但足够有效的对比学习摘要生成框架](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247531083&idx=2&sn=54c02e027de84d6d4a1abcc37f6b530c&chksm=96eaa5cba19d2cdd87ec305da8e37201825612e7440433f06502726eaec4b2e69d29f9713c9d&mpshare=1&scene=1&srcid=1014EEOgDw0MbueoeY9Ay6Jd&sharer_sharetime=1634188686934&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A20qLwCEJ7wuzQGjOhocGro%3D&pass_ticket=R1AweeLAWw%2BNiXhIzTTZdwZWN39nPReyTpdWsFh9sTncp4d5JndrGpttZpZcXaVF&wx_header=0#rd)
@@ -39,7 +39,7 @@
 - 
 
 
-# 对话摘要
+## 对话摘要
 - [复旦大学张奇组：对话摘要数据不足？对话数据、文档摘要数据，我全都要！](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247540812&idx=2&sn=82dd604d7e00c3acc01d277a69c6ad1a&chksm=96eaffcca19d76da3603f69a26ea1025ca324046da628afb2c08a2355c972f41bd61c8d318cc&mpshare=1&scene=1&srcid=10145wuA1yhYis2lDVpZCCmy&sharer_sharetime=1634188648177&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A%2FUvYkA2C8i8YZtEZGwA65s%3D&pass_ticket=R1AweeLAWw%2BNiXhIzTTZdwZWN39nPReyTpdWsFh9sTncp4d5JndrGpttZpZcXaVF&wx_header=0#rd)
 - [赛尔笔记｜ 对话摘要简述](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650802409&idx=1&sn=6dc8e7c2d9bfeda363d349c96636cb0d&chksm=8cb89d02bbcf1414eed95cf1201996781e52717390f34672f7bf67fc12d1612445bdcd0cfee3&mpshare=1&scene=1&srcid=1014BAXsFl06RMneJJuk2e0h&sharer_sharetime=1634188729233&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=Axn1u7qXf%2B8KgbkwYia6gYU%3D&pass_ticket=R1AweeLAWw%2BNiXhIzTTZdwZWN39nPReyTpdWsFh9sTncp4d5JndrGpttZpZcXaVF&wx_header=0#rd)
 - [赛尔原创@ACL 2021 | 如何利用DialoGPT辅助对话摘要任务？](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650803517&idx=1&sn=84e5382154b7a37974c00cf423f7134f&chksm=8cb898d6bbcf11c0e66328ebc05b78ed6766e60a27c9cec7524d0ae39bd4f4c1df8084f8c0b9&mpshare=1&scene=1&srcid=1014Zx6teQUICIccBDGDhMdD&sharer_sharetime=1634188742621&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A8jORBbWNf4JxjgAViFhgWg%3D&pass_ticket=R1AweeLAWw%2BNiXhIzTTZdwZWN39nPReyTpdWsFh9sTncp4d5JndrGpttZpZcXaVF&wx_header=0#rd)

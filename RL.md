@@ -2,12 +2,12 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [概念、基础](#%E6%A6%82%E5%BF%B5%E5%9F%BA%E7%A1%80)
+- [概念、基础](#概念基础)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-# 概念、基础
+## 概念、基础
 
 - [基于模型(Model Based)和model free的强化学习](https://itpcb.com/a/162657)
 - [强化学习基础](http://itpcb.com/docs/MachineLearningNotes/17%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.html)

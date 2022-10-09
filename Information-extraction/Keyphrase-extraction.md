@@ -1,5 +1,9 @@
 
 
+## 关键短语抽取
+
+- [聊一聊 NLPer 如何做关键词抽取](https://zhuanlan.zhihu.com/p/258512947)
+  - 方法原理总结性的文章，不涉及具体算法，重要
 - [中文短语抽取/挖掘](https://blog.csdn.net/rensihui/article/details/123299946)
   - 重要
 - [盘点 KeyBert、TextRank 等九种主流关键词提取算法原理及 Python 代码实现](https://zhuanlan.zhihu.com/p/568271135)

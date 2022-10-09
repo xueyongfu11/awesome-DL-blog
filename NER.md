@@ -5,7 +5,6 @@
 - [NER](#ner)
   - [少样本NER](#少样本ner)
   - [地址解析](#地址解析)
-  - [Datasets](#datasets)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -36,12 +35,9 @@
 - [中文小样本NER模型方法总结和实战](https://mp.weixin.qq.com/s/NgCY9U1vMrg99GeoiRDtfQ)
 
 
-
-
 ## 地址解析
 
 - [天池中文NLP地址要素解析大赛Top方案总结](https://mp.weixin.qq.com/s/bjbcT0Yt-Q-4KjQSg-3mFQ)
 - [BERT+Biaffine结构中文NLP地址要素解析](https://mp.weixin.qq.com/s/o5BZ8-l-rjyJmF0V_G1cNg)
 
-## Datasets
-- [中文命名实体识别数据集](https://mp.weixin.qq.com/s/bIRhscHb1VjMAM1axLcUhw)
+

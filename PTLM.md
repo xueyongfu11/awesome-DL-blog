@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [综合](#综合)
+- [汇总](#汇总)
 - [Transformer](#transformer)
 - [tokenizer](#tokenizer)
 - [BERT](#bert)
@@ -16,7 +16,7 @@
 
 
 
-# 综合
+# 汇总
 
 - [最新 Transformer 预训练模型综述！](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247495719&idx=1&sn=512c1f8b4e21c9d0117f625514a88290&chksm=ec38554fdb4fdc59470b34aab6a42822e75b045f45631f17339e81f1d50dbeba5bf02d991c33&mpshare=1&scene=24&srcid=1025ms9hMfaTN0AOZ2RkLPT1&sharer_sharetime=1635125386386&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A62Gq4qJqdl1jfl%2BUsMVxvA%3D&pass_ticket=SHGOUtseKTQDhBbQUkxPd534tLY%2B6lmiRxoDIEirNdgCF3uij%2FoHBbS1BpQARUsW&wx_header=0#rd)
 - [12个NLP预训练模型的学习笔记](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650412585&idx=2&sn=0c1dbb5578e42c95a2da58586a8df357&chksm=becd907389ba1965a54a79d30146d76cbdd7ad6ae22acf998a7fea842a2babc8952683c768e7&scene=0&xtrack=1&exportkey=A6fw2cQ7DInpJlNoaWL0r40%3D&pass_ticket=peaJqRABUyiyXUkxShtHPoJ7onMoJTA4OFYeMuNaXmdNKq47G0x8XJEm7afGdVcX#rd)
