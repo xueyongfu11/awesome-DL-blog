@@ -61,7 +61,7 @@
 
 
 # 知识标注和挖掘
-- [解语：如何从零样本做中文文本知识标注与挖掘？](https://mp.weixin.qq.com/s/8nuwg8RUSbAB-MsWG0XI2g)
+- [解语：如何从零样本做中文文本知识标注与挖掘？](https://zhuanlan.zhihu.com/p/511748431)
 
 
 # 主动学习
