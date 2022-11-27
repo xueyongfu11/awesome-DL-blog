@@ -8,6 +8,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
+## 文本纠错
 
 - [针对OCR的NLP纠错：从原理到实践](https://zhuanlan.zhihu.com/p/179957371)
 - [AI LIVE | 文本纠错技术探索和实践](https://zhuanlan.zhihu.com/p/159101860)
@@ -32,12 +33,18 @@
 
 
 ## 中文拼写纠错
+- [中文拼写检测（Chinese Spelling Checking）相关方法、评测任务、榜单](https://blog.csdn.net/qq_36426650/article/details/122807019)
 - [腾讯中文纠错模型 PLOME 论文详解！](https://juejin.cn/post/7039144348021162021)
 
 ## 语法错误
+- [EMNLP'22 | 苏大LAGroup提出：利用定制句法信息的语法纠错](https://mp.weixin.qq.com/s/Y1iMxfhJ9xMKiOE9e8P7Rw)
 - [文本语法纠错不完全调研：学术界 v.s. 工业界最新研究进展](https://mp.weixin.qq.com/s/Dj8KIe6LbVGonV-Kk9mO2Q)
 - [语法纠错的研究现状](https://mp.weixin.qq.com/s/0_qp1WsrEsjnj8ST4zQyTQ)
   - 伪标注数据生成方法
   - 语法纠错模型介绍
 - [NLPCC2018中文语法错误修正任务分享](http://techblog.youdao.com/?p=1281)
 - [文本纠错 | 怎样改善模型对 multi-typo 的纠正效果？](https://mp.weixin.qq.com/s/GIOQo3iguAJ5MgW7MjMZww)
+
+## ASR纠错
+- [拼写、常识、语法、推理错误都能纠正，云从提出基于BART的语义纠错方法](https://mp.weixin.qq.com/s/uGeQgyPUfz5VRlpp1pnCbA)
+- [基于BERT的ASR纠错](https://mp.weixin.qq.com/s/Y1iMxfhJ9xMKiOE9e8P7Rw)
