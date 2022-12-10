@@ -3,8 +3,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [NER](#ner)
-  - [少样本NER](#少样本ner)
-  - [地址解析](#地址解析)
+  - [少样本NER](#%E5%B0%91%E6%A0%B7%E6%9C%ACner)
+  - [地址解析](#%E5%9C%B0%E5%9D%80%E8%A7%A3%E6%9E%90)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

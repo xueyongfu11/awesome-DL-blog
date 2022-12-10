@@ -2,8 +2,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [综述](#综述)
-- [文档信息抽取](#文档信息抽取)
+- [综述](#%E7%BB%BC%E8%BF%B0)
+- [文档信息抽取](#%E6%96%87%E6%A1%A3%E4%BF%A1%E6%81%AF%E6%8A%BD%E5%8F%96)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -14,6 +14,8 @@
 - [CVPR 2022文档图像分析与识别相关论文26篇汇集简介](https://mp.weixin.qq.com/s/rHQ7x1EyKGY0OhZPJWyGwA)
 
 ## 文档信息抽取
+
+- [基于VI-LayoutXLM的发票关键信息抽取](https://bbs.huaweicloud.com/blogs/383854)
 - [多模态预训练模型指北](https://mp.weixin.qq.com/s/x36gft6F6wjeQtnizqgHTA)
 - [[ACL2022] FormNet：表单文档信息抽取中超越序列建模的结构编码方法](https://mp.weixin.qq.com/s/TlA9Juj7k-Fd2wMfVck1sw)
   - 在transformer之前引入GCN

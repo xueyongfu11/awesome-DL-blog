@@ -2,9 +2,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [情感分析](#情感分析)
+- [情感分析](#%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90)
 - [ABSA](#absa)
-  - [综述](#综述)
+  - [综述](#%E7%BB%BC%E8%BF%B0)
   - [extraction ABSA](#extraction-absa)
   - [category ABSA](#category-absa)
   - [Emotion cause extraction](#emotion-cause-extraction)

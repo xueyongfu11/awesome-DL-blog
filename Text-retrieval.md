@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [文本检索匹配](#%E6%96%87%E6%9C%AC%E6%A3%80%E7%B4%A2%E5%8C%B9%E9%85%8D)
+- [双塔模型](#%E5%8F%8C%E5%A1%94%E6%A8%A1%E5%9E%8B)
+- [交互模型](#%E4%BA%A4%E4%BA%92%E6%A8%A1%E5%9E%8B)
+- [交互和双塔结合](#%E4%BA%A4%E4%BA%92%E5%92%8C%E5%8F%8C%E5%A1%94%E7%BB%93%E5%90%88)
+- [Vector retrieval](#vector-retrieval)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## 文本检索匹配
 - [21个经典深度学习句间关系模型｜代码&技巧](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247486128&idx=1&sn=3c77c96c6891a94de629677911b42553&chksm=9bb983d4acce0ac298ad04543676d4b0568977d010f3945d51edc0680c785b0b97827aee9028&token=1200978700&lang=zh_CN&scene=21#wechat_redirect)

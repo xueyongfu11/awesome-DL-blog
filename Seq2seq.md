@@ -2,6 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [汇总](#%E6%B1%87%E6%80%BB)
 - [文本生成](#%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90)
 - [抽取式摘要](#%E6%8A%BD%E5%8F%96%E5%BC%8F%E6%91%98%E8%A6%81)
 - [文本摘要](#%E6%96%87%E6%9C%AC%E6%91%98%E8%A6%81)

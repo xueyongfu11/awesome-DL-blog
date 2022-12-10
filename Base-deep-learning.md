@@ -12,6 +12,7 @@
 - [损失函数](#%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0)
 - [优化器](#%E4%BC%98%E5%8C%96%E5%99%A8)
 - [激活函数](#%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0)
+- [评价指标](#%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87)
 - [算法基础](#%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
