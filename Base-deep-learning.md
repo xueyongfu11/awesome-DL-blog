@@ -99,6 +99,7 @@
 
 
 ## 算法基础
+- [Noise Contrastive Estimation 前世今生——从 NCE 到 InfoNCE](https://mp.weixin.qq.com/s/QlrxIZ8wNjmcFVoB78l9ag)
 - [标签平滑Label Smoothing](https://blog.csdn.net/qq_43211132/article/details/100510113)
 - [一个小问题：深度学习模型如何处理大小可变的输入](https://mp.weixin.qq.com/s/jV_cqwZix6OPVhr2UxajYA)
 - [损失函数为什么使用交叉熵多而不是MSE（均方差）？](https://blog.csdn.net/soga235/article/details/122094044)

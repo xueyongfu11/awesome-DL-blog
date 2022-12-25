@@ -52,5 +52,6 @@
 - [向量检索研究系列算法](https://mp.weixin.qq.com/s/hf7W8gpUAstNEBEnS9s7zQ)
 - [Faiss中的IVF,PQ,IVFPQ原理](https://zhuanlan.zhihu.com/p/356373517)
 
-
+## 评估指标
+- [搜索推荐评价指标Precision@k、Recall@k、F1@k、NDCG@k](https://blog.csdn.net/guolindonggld/article/details/121114309)
 

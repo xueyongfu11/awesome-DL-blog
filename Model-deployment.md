@@ -9,5 +9,6 @@
 
 ## 汇总
 
+- [轻量级模型设计与部署总结](https://mp.weixin.qq.com/s/a9yNr6hFVocPFe-DEmRiXg)
 - [模型部署工具箱 MMDeploy使用介绍](https://mp.weixin.qq.com/s/l494lru5RYEovkq16E1Rpg)
-- 
+
