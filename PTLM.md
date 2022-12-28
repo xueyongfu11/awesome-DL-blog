@@ -66,6 +66,7 @@
 
 # BERT fimaly
 
+- [StructBERT(ALICE) 详解](https://zhuanlan.zhihu.com/p/103207343)
 - [万字长文带你纵览 BERT 家族](https://mp.weixin.qq.com/s?__biz=MzI0ODQ0MzM0Nw==&mid=2247483918&idx=1&sn=ddf308d199a3dfca210c3e581e81a031&chksm=e9a1fab2ded673a4973623227e65bcbbc38c0c216185e69b9becaa7c5e9ef2abffda498c958b&mpshare=1&scene=24&srcid=&sharer_sharetime=1590369637213&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A4u14NHMiTik9sAsx%2BaPnQc%3D&pass_ticket=LlL6Ad5uohnLAlqJrzan%2BA5dDM3m9%2Bnl4L%2FaTWpnfTNnifRhbExGygOrgXBzVB7b&wx_header=0#rd)
 - [MASS: 用于语言生成的遮蔽序列到序列与训练模型](https://zhuanlan.zhihu.com/p/67891175)
 - [定向写作模型CTRL](https://zhuanlan.zhihu.com/p/100845592)
