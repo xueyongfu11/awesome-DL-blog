@@ -84,6 +84,9 @@
 ## 优化器
 - [Adam和AdamW的区别](https://blog.csdn.net/weixin_45743001/article/details/120472616)
 - [Adam,AdamW,LAMB优化器原理与代码](https://blog.csdn.net/weixin_41089007/article/details/107007221)
+  - Adam使用了一阶动量矩和二阶动量矩，为每个参与赋予不同的学习率，梯度较大的参数获取的学习率较小，梯度较小的参数获取的学习率大
+  - Adam收敛速度快但是存在过拟合问题，直接在loss中添加L2正则，但是会因为adam中存在自适应学习率而对使用adam优化器的模型失效，AdamW在参数更新时引入参数自身，达到同样使得参数接近于0的目的
+  - LAMB是是模型在大批量数据训练时，能够维持梯度更新的精度
 
 
 ## 激活函数
