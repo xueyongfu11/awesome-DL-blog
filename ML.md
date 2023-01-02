@@ -29,8 +29,10 @@
   - [BiLSTM中的CRF层（三）CRF损失函数](https://blog.csdn.net/u013963380/article/details/108696552)
 
 ## 聚类
+- [六种常用的文本聚类方法介绍](https://zhuanlan.zhihu.com/p/141704985)
 - [情报分析必读：情报分析开源项目合集与single-pass自动文本聚类算法实现](https://mp.weixin.qq.com/s/HLmvonxnqZvZH08x3WM94g)
-- 
+- [一种简单的文本聚类算法：single-pass](https://zhuanlan.zhihu.com/p/91007237)
+  - 显而易见，只对数据遍历一次，每次对文档找到一个匹配的簇，可以利用倒排索引以及精简词汇表等方法极高聚类效率
 
 ## 主题模型
 - [主题模型(topic model)到底还有没有用，该怎么用？](https://www.zhihu.com/question/34801598/answer/765580727)
