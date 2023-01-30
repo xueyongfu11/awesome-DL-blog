@@ -24,3 +24,5 @@
 - [torch.where()的用法以及例子](https://blog.csdn.net/pearl8899/article/details/112408714)
   - torch.where(condition，a，b)其中
     输入参数condition：条件限制，如果满足条件，则选择a，否则选择b作为输出。
+
+- [实操教程｜PyTorch实现断点继续训练](https://mp.weixin.qq.com/s/HobZsq2Mz5PGK8TWaPifsw)
