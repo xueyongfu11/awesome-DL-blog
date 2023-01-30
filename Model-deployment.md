@@ -9,9 +9,15 @@
 
 ## 汇总
 
-- [从pytorch转换到onnx](https://zhuanlan.zhihu.com/p/422290231)
 - [轻量级模型设计与部署总结](https://mp.weixin.qq.com/s/a9yNr6hFVocPFe-DEmRiXg)
 - [模型部署工具箱 MMDeploy使用介绍](https://mp.weixin.qq.com/s/l494lru5RYEovkq16E1Rpg)
+
+
+### pytorch转onnx
+
+- [从pytorch转换到onnx](https://zhuanlan.zhihu.com/p/422290231)
+- [学懂 ONNX，PyTorch 模型部署再也不怕！](https://developer.aliyun.com/article/914229)
+- [pytorch导出torchscript记录](https://blog.csdn.net/zysss_/article/details/128222610)
 
 
 ## 官网

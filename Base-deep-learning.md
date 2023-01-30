@@ -47,6 +47,10 @@
 - 
 
 ## 卷积
+
+- [conv1d与conv2d的区别](https://renzibei.com/2020/06/30/conv1d%E4%B8%8Econv2d%E7%9A%84%E5%8C%BA%E5%88%AB/#:~:text=conv2d%E7%9A%84%E5%8D%B7%E7%A7%AF%E8%BF%90%E7%AE%97%E6%98%AF%E5%9C%A8%20%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5%20%E4%B8%AD%E6%BB%91%E5%8A%A8%EF%BC%8C%E8%80%8Cconv1d%E7%9A%84%E5%8D%B7%E7%A7%AF%E8%BF%90%E7%AE%97%E6%98%AF%E5%9C%A8,%E4%B8%80%E7%BB%B4%E5%90%91%E9%87%8F%20%E4%B8%AD%E6%BB%91%E5%8A%A8%E3%80%82%20%E5%BD%93%E6%88%91%E4%BB%AC%E4%BD%BF%E7%94%A8conv2d%E5%A4%84%E7%90%86%E5%9B%BE%E7%89%87%E6%97%B6%EF%BC%8C%E4%BA%8C%E7%BB%B4%E5%8D%B7%E7%A7%AF%E6%A0%B8%E5%9C%A8%E5%9B%BE%E7%89%87%E6%AF%8F%E4%B8%80%E9%80%9A%E9%81%93%E7%9A%84%E7%9F%A9%E9%98%B5%E4%B8%AD%E6%BB%91%E5%8A%A8%E5%8D%B7%E7%A7%AF%EF%BC%8C%E5%BD%93%E6%88%91%E4%BB%AC%E7%94%A8conv1d%E5%A4%84%E7%90%86%E5%90%91%E9%87%8F%E6%97%B6%EF%BC%8C%E4%B8%80%E7%BB%B4%E5%8D%B7%E7%A7%AF%E6%A0%B8%E5%9C%A8%E6%AF%8F%E4%B8%80%E9%80%9A%E9%81%93%E7%9A%84%E5%90%91%E9%87%8F%E4%B8%AD%E6%BB%91%E5%8A%A8%E5%8D%B7%E7%A7%AF%E3%80%82)
+  - conv2d的卷积运算是在二维矩阵中滑动，而conv1d的卷积运算是在一维向量中滑动。
+  - textCNN中使用的conv2d
 - [为什么要用空洞卷积？](https://mp.weixin.qq.com/s?__biz=MzAxMjMwODMyMQ==&mid=2456342851&idx=4&sn=6556c82aaf414df0ee60774a0da98c25&chksm=8c2fab4dbb58225b6892f242ba5a881fd003d1fcc10c2d081a82fad38beb6a084c292cd36cf6&scene=0&xtrack=1&exportkey=Ay8QN8s%2FMncipMjJc0MBypo%3D&pass_ticket=LlL6Ad5uohnLAlqJrzan%2BA5dDM3m9%2Bnl4L%2FaTWpnfTNnifRhbExGygOrgXBzVB7b&wx_header=0#rd)
 - [时间卷积网络（TCN）将取代RNN成为NLP预测领域王者](https://www.toutiao.com/article/6753489961078489612/)
 - [因果卷积（causal）与扩展卷积（dilated）](https://blog.csdn.net/tonygsw/article/details/81280364)
