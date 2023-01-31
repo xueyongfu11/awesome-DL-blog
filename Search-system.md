@@ -10,6 +10,7 @@
 
 
 ## 行业搜索
+- [领域知识增强的预训练语言模型在药电商搜索领域的实践](https://mp.weixin.qq.com/s/or9DT2HlVPnUFBsqAEv6Uw)
 - [阿里达摩院：基于预训练语言模型的行业搜索的应用和研究](https://mp.weixin.qq.com/s/P-7w5x_ymTwaV9pszgq0Vw)
 - [电商搜索的语义理解问题](https://mp.weixin.qq.com/s?__biz=MzkxMjM2MDIyNQ==&mid=2247504311&idx=1&sn=374c17fac91750ee7f475eae51f6ed0a&source=41#wechat_redirect)
 

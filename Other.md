@@ -77,6 +77,7 @@
   
 
 # 面试
+- [大厂必考深度学习面试题及参考答案](https://mp.weixin.qq.com/s/ceMHsPgtt1FI4nbIDiSWuw)
 - [很强！社招NLP算法收割机](https://mp.weixin.qq.com/s/gTwWw2OVTk1-ZzS6M0qDOw)
 - [NLP/AI面试全记录（持续更新，最全预训练总结）](https://zhuanlan.zhihu.com/p/57153934)
 - [一些NLP的面试问题](https://blog.csdn.net/weixin_42137700/article/details/104406354)
