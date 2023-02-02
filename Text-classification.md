@@ -10,7 +10,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-# 分类
+## 文本分类
 
 - [基于Prompt Learning、检索思路实现文本分类，开源数据增强、可信增强技术](https://mp.weixin.qq.com/s/tas7yM8vapxwtlJt-MRZdg)
 - [6个你应该用用看的用于文本分类的最新开源预训练模型](https://zhuanlan.zhihu.com/p/130792659)
@@ -21,6 +21,7 @@
 
 
 ## 少样本
+- [论文分享 | AAAI 2022 探索小样本学习在解决分类任务上过拟合问题的方法](https://mp.weixin.qq.com/s/DymXP95X77mfs2CGJZEyPQ)
 - [文本分类大杀器：PET范式](https://mp.weixin.qq.com/s/qW0iwqWhkj12euEXRenZDg)
   - 使用prompt learning方式进行文本分类
   - 不通pattern对效果有很大影响
@@ -32,7 +33,7 @@
 - [小样本学习--笔记整理](https://blog.csdn.net/u010138055/article/details/90690606)
 
 
-# 多标签分类
+## 多标签分类
 
 - [多标签分类(multi-label classification)综述](https://www.cnblogs.com/cxf-zzj/p/10049613.html)
   - 问题转化方法：分类器链，基于生成的方法，多标签转成单标签
@@ -49,6 +50,6 @@
 - 
 
 
-# 层次标签分类
+## 层次标签分类
 - [层次文本分类-Seq2Tree：用seq2seq方式解决HTC问题](https://mp.weixin.qq.com/s/eSJF8SAtuYq-DH_VfY-Ixg)
 - [label embedding与attention机制在层次文本分类中的简单架构-HAF](https://mp.weixin.qq.com/s/XxFBm5p-srxVkFvt4cnxIA)

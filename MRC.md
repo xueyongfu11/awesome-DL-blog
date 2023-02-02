@@ -8,7 +8,7 @@
 
 
 ## 汇总
-
+- [赛尔笔记 | 机器阅读理解简述](https://mp.weixin.qq.com/s/Rm1uFunX9IRQaL_rUAZxfQ)
 - [阅读理解先导篇](https://mp.weixin.qq.com/s?__biz=MzAxMDk0OTI3Ng==&mid=2247485079&idx=1&sn=dea19dcbdcd097c21df0214fccbe809e&chksm=9b49c164ac3e487208da695be1c3a28e31a57be299d42bab5c7a143e6298363710d0cc485f0d&mpshare=1&scene=24&srcid=0811BdYnlIuUKIcF95NzQDVJ&sharer_sharetime=1597119277963&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A9cTopYqm3%2FPey70Enf3bhQ%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
 - [2021年机器阅读理解方向还有哪些值得深入的研究点](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247535548&idx=4&sn=1be83ad913a89d2564ffec2fc320c729&chksm=ebb77368dcc0fa7edbf0e261842fa6918a1d8692776f9215e72d87cfa83c441aed9b80627225&mpshare=1&scene=24&srcid=0527wBnu2WfF2QL5pkzcGhaU&sharer_sharetime=1622126246563&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A519tmbDplE43HhW6xDqcfU%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)
 - [NLP机器阅读理解：四大任务及相应数据集、比赛](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650426020&idx=2&sn=f8a879c72430e6e4c36d2ac7b9d23006&chksm=becdccfe89ba45e892af21818f54f61300749f89895c3259f5becfcb8cbec85ee47611fdaccc&mpshare=1&scene=24&srcid=09274N1cgOhVnpn2ZJGXE6Ck&sharer_sharetime=1632705938691&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A5IQJOIySdM%2BtAY%2BN2v9OdQ%3D&pass_ticket=X1hVh%2FzYha2Fa9G%2FZWK0bpCofPY07lt8BPBNyjf1xUWYljT%2Bk%2F9q5rZ%2F%2B4bWWFme&wx_header=0#rd)

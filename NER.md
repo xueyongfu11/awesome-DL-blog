@@ -25,14 +25,20 @@
 
 
 ## 少样本NER
+- [Template-Based Named Entity Recognition Using BART [笔记]](https://zhuanlan.zhihu.com/p/462088365)
+- [论文解读：Example-Based Named Entity Recognition](https://blog.csdn.net/qq_36426650/article/details/125504613)
 - [ACL2022 | 序列标注的小样本NER：融合标签语义的双塔BERT模型](https://mp.weixin.qq.com/s/56OH4d7WDYjuLxWh4kW-1w)
-- [微软、UIUC韩家炜组联合出品：少样本NER最新综述](https://mp.weixin.qq.com/s/tiMoFMVdQketm11rdXjiSQ)
+  - 将标签形式化描述，BIO用begin inside other描述，将text中的每个token与所有label点积，计算相似度
 - [ACL 2021 | 复旦大学邱锡鹏组：面向不同NER子任务的统一生成框架](https://mp.weixin.qq.com/s/2AePxoar9j4MLQLxMzSf_g)
+  - 基于BAET模型，使用指针网络，对于不连续实体，需要添加标签 《dis》
+  - 推理：将decoder的hidden_state与encoder的每个位置的hidden_state点积，与标签的embedding点积，然后计算softmax
 - [低资源和跨语言NER任务的新进展：词级别数据增强技术](https://mp.weixin.qq.com/s/9vYd9O7BRd_k_56AF5xT0g)
-- [缺少训练样本怎么做实体识别？小样本下的NER解决方法汇总](https://mp.weixin.qq.com/s/lRNABGEqf5qxreiR27BpAQ)
 - [COLING 2022 | 少样本NER：分散分布原型增强的实体级原型网络](https://mp.weixin.qq.com/s/vdNKuZRg2Umst0TSn3p2Qw)
 - [ACL 2022 | 基于自描述网络的小样本命名实体识别](https://mp.weixin.qq.com/s/WUjK6qM7qkLs66aMoLYaIA)
+
+- [微软、UIUC韩家炜组联合出品：少样本NER最新综述](https://mp.weixin.qq.com/s/tiMoFMVdQketm11rdXjiSQ)
 - [中文小样本NER模型方法总结和实战](https://mp.weixin.qq.com/s/NgCY9U1vMrg99GeoiRDtfQ)
+  - UIE在少样本和全量样本的情况下，想过媲美甚至超过BERT-CRF，但是其他模型在少样本情况下较BERT-CRF好，但是在全量样本下不如BERT-CRF
 
 
 ## 地址解析

@@ -83,7 +83,16 @@
 - [百度实体链接比赛后记：行为建模和实体链接（含代码分享）](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247499381&idx=1&sn=16f58c043a47ce4d5082e63e496c4d6b&chksm=96ea21f5a19da8e3faac75a67265625f09ae08569588ebdf5898512e521d9262261764379df2&scene=0&xtrack=1&pass_ticket=5l2GTJoNs3UnPjzRsDzXqTZBP6%2Btylp4BwIFxk3aFUwONC5l8MJz3gdjYHCbXS%2FH#rd)
 - 
 
+
+# 知识图谱构建
+- [他山之石 | 丁香园 医疗领域图谱的构建与应用](https://mp.weixin.qq.com/s/dTAoI3pfCCT0CjNveanaxA)
+
+
 # 事理图谱
+- [图谱实战 | 基于金融场景的事理图谱构建与应用](https://mp.weixin.qq.com/s/S4S0qTtWKuWPKIsBkRnxhw)
+  - 只抽取显式的事理关系，不对隐式事理关系进行抽取，只抽取因果关系，其他关系不重要
+  - 事理关系抽取：先抽取因果关系词，再因事件和果事件，方法同事件模型
+  - 事例对齐：基于文本和子图的方法对齐
 - [百度事件图谱技术与应用](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247513234&idx=1&sn=e5ae4715f396f4cc8d63919a4f01cd86&chksm=fbd706fecca08fe81c24da702b22f42ad74e02eac42beafb77b66370e690cf4440ef40c477a6&mpshare=1&scene=24&srcid=1125MFEHHk5B28uV7t3go9Et&sharer_sharetime=1606319309592&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A7B18abxjRagXO1eHOEcZbA%3D&pass_ticket=l%2FwLTQLEiN41ZMPE4ecjUee90P1pxZN0%2BL5MASpFjA%2Bgl02XuicToi%2FXGttULYXk&wx_header=0#rd)
 - [基于事理图谱的文本推理](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650799466&idx=1&sn=0a055ea5a682108684d63e335608b055&chksm=8f476881b830e197860b9139e19704b20d0a495ef4d05a1974d1981e0d35aec42f123c401c09&mpshare=1&scene=1&srcid=0927vDop6mqRUqvi53iJg7l4&sharer_sharetime=1601178608128&sharer_shareid=9d627645afe156ff11b0a8519d982bcd&exportkey=A6ex04XvSLxFKCEzZw1A3mE%3D&pass_ticket=dHTQ1tEcNnJx3zi33GpdvKYRIx04Yw%2Fx1Th6gfOGi9LT46IvshrrywPlXoxF6Cji&wx_header=0#rd)
 - [哈工大赛尔 | 事理图谱：事件演化的规律和模式](http://blog.openkg.cn/%e5%93%88%e5%b7%a5%e5%a4%a7%e8%b5%9b%e5%b0%94-%e4%ba%8b%e7%90%86%e5%9b%be%e8%b0%b1%ef%bc%9a%e4%ba%8b%e4%bb%b6%e6%bc%94%e5%8c%96%e7%9a%84%e8%a7%84%e5%be%8b%e5%92%8c%e6%a8%a1%e5%bc%8f/#more-633)
