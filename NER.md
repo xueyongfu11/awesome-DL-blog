@@ -9,7 +9,9 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-# NER
+## NER
+### 2021
+- [工业界求解NER问题的12条黄金法则](https://blog.csdn.net/xixiaoyaoww/article/details/107096739)
 - [融合知识的中文医疗实体识别模型](http://www.scicat.cn/yy/20211208/108868.html)
   - 通过构建好的实体库来对文本进行预打标，将预标注结果作为bert模型的输入
 - [中文NER | 江南大学提出NFLAT：FLAT的一种改进方案](https://mp.weixin.qq.com/s/-bpr3ySRaPZqRdJgI21A6w)
@@ -25,6 +27,7 @@
 
 
 ## 少样本NER
+### 2021
 - [Template-Based Named Entity Recognition Using BART [笔记]](https://zhuanlan.zhihu.com/p/462088365)
 - [论文解读：Example-Based Named Entity Recognition](https://blog.csdn.net/qq_36426650/article/details/125504613)
 - [ACL2022 | 序列标注的小样本NER：融合标签语义的双塔BERT模型](https://mp.weixin.qq.com/s/56OH4d7WDYjuLxWh4kW-1w)
@@ -42,7 +45,7 @@
 
 
 ## 地址解析
-
+### 2021
 - [天池中文NLP地址要素解析大赛Top方案总结](https://mp.weixin.qq.com/s/bjbcT0Yt-Q-4KjQSg-3mFQ)
 - [BERT+Biaffine结构中文NLP地址要素解析](https://mp.weixin.qq.com/s/o5BZ8-l-rjyJmF0V_G1cNg)
 
