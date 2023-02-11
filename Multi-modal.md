@@ -16,7 +16,12 @@
 
 
 ## cross-modal retrieval
+### 2022
+- [Transformer Vision（二）|| ViT-B/16 网络结构](https://blog.csdn.net/qq_56039091/article/details/124785401)
 
+### 2021
+- [论文笔记-UNITER: Learning Universal Image-Text Representations](https://www.jianshu.com/p/457e668715e4)
+- [ICML2021 | ALIGN：大力出奇迹，谷歌用18亿的图像-文本对训练了一个这样的模型](https://blog.csdn.net/moxibingdao/article/details/120320356)
 - [用不匹配的图文对也能进行多模态预训练？百度提出统一模态的预训练框架：UNIMO（ACL2021）](https://blog.csdn.net/moxibingdao/article/details/122532003)
 - [跨模态检索 | 图文检索梳理](https://zhuanlan.zhihu.com/p/392385222)
 - [Wukong：一亿规模的中文跨模态预训练基准](https://zhuanlan.zhihu.com/p/551622338)
