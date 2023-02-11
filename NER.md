@@ -10,6 +10,8 @@
 
 
 ## NER
+### 2022
+- [【NLP】命名实体识别——IDCNN-CRF论文阅读与总结](https://blog.csdn.net/meiqi0538/article/details/124641801)
 ### 2021
 - [工业界求解NER问题的12条黄金法则](https://blog.csdn.net/xixiaoyaoww/article/details/107096739)
 - [融合知识的中文医疗实体识别模型](http://www.scicat.cn/yy/20211208/108868.html)
