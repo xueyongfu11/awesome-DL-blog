@@ -54,7 +54,7 @@
 - [BERT类模型的特殊符号的使用可以有哪些调整和变体？可以起到怎样的效果？](https://www.zhihu.com/question/387534279)
 - [finetuning Bert时的权重衰减](https://blog.csdn.net/mch2869253130/article/details/105994044)
 - [transformer中的positional encoding(位置编码)](https://blog.csdn.net/Flying_sfeng/article/details/100996524)
-- [BERT参数量如何计算](https://zhuanlan.zhihu.com/p/357353536)
+- [一文懂“NLP Bert-base” 模型参数量计算](https://blog.csdn.net/weixin_43922901/article/details/102602557)
 - 
 
 # 中文大模型
