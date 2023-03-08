@@ -25,22 +25,26 @@
 - [知识融入语言模型——ERNIE与ERNIE](https://mp.weixin.qq.com/s/trAwVkbwKqUmC5sUbC_S0w)
 - [不拆分单词也可以做NLP，哈工大最新模型在多项任务中打败BERT，还能直接训练中文](https://mp.weixin.qq.com/s/UBoMRmymwnw9Ds3S3OW6Mw)
 - [BiLSTM上的CRF，用命名实体识别任务来解释CRF](https://mp.weixin.qq.com/s/2Eq1tSt0Wqxh8MULR27qYA)
-- 
 
 
 ## 少样本NER
+### 2023
+- [COLING 2022 | PCBERT: 用于中文小样本NER任务的BERT模型](https://www.aminer.org/research_report/63db41c37cb68b460f84d4fd)
+
+### 2022
+- [中文小样本NER模型方法总结和实战](https://cloud.tencent.com/developer/article/2083673)
+- [低资源和跨语言NER任务的新进展：词级别数据增强技术](https://mp.weixin.qq.com/s/9vYd9O7BRd_k_56AF5xT0g)
+- [COLING 2022 | 少样本NER：分散分布原型增强的实体级原型网络](https://mp.weixin.qq.com/s/vdNKuZRg2Umst0TSn3p2Qw)
+- [ACL 2022 | 基于自描述网络的小样本命名实体识别](https://mp.weixin.qq.com/s/WUjK6qM7qkLs66aMoLYaIA)
+- [ACL2022 | 序列标注的小样本NER：融合标签语义的双塔BERT模型](https://mp.weixin.qq.com/s/56OH4d7WDYjuLxWh4kW-1w)
+
 ### 2021
 - [Template-Based Named Entity Recognition Using BART [笔记]](https://zhuanlan.zhihu.com/p/462088365)
 - [论文解读：Example-Based Named Entity Recognition](https://blog.csdn.net/qq_36426650/article/details/125504613)
-- [ACL2022 | 序列标注的小样本NER：融合标签语义的双塔BERT模型](https://mp.weixin.qq.com/s/56OH4d7WDYjuLxWh4kW-1w)
   - 将标签形式化描述，BIO用begin inside other描述，将text中的每个token与所有label点积，计算相似度
 - [ACL 2021 | 复旦大学邱锡鹏组：面向不同NER子任务的统一生成框架](https://mp.weixin.qq.com/s/2AePxoar9j4MLQLxMzSf_g)
   - 基于BAET模型，使用指针网络，对于不连续实体，需要添加标签 《dis》
   - 推理：将decoder的hidden_state与encoder的每个位置的hidden_state点积，与标签的embedding点积，然后计算softmax
-- [低资源和跨语言NER任务的新进展：词级别数据增强技术](https://mp.weixin.qq.com/s/9vYd9O7BRd_k_56AF5xT0g)
-- [COLING 2022 | 少样本NER：分散分布原型增强的实体级原型网络](https://mp.weixin.qq.com/s/vdNKuZRg2Umst0TSn3p2Qw)
-- [ACL 2022 | 基于自描述网络的小样本命名实体识别](https://mp.weixin.qq.com/s/WUjK6qM7qkLs66aMoLYaIA)
-
 - [微软、UIUC韩家炜组联合出品：少样本NER最新综述](https://mp.weixin.qq.com/s/tiMoFMVdQketm11rdXjiSQ)
 - [中文小样本NER模型方法总结和实战](https://mp.weixin.qq.com/s/NgCY9U1vMrg99GeoiRDtfQ)
   - UIE在少样本和全量样本的情况下，想过媲美甚至超过BERT-CRF，但是其他模型在少样本情况下较BERT-CRF好，但是在全量样本下不如BERT-CRF
