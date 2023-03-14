@@ -13,6 +13,9 @@
 ### 2022
 - [【NLP】命名实体识别——IDCNN-CRF论文阅读与总结](https://blog.csdn.net/meiqi0538/article/details/124641801)
 ### 2021
+- [ACL 2021 | 复旦大学邱锡鹏组：面向不同NER子任务的统一生成框架](https://mp.weixin.qq.com/s/2AePxoar9j4MLQLxMzSf_g)
+  - 基于BAET模型，使用指针网络，对于不连续实体，需要添加标签 《dis》
+  - 推理：将decoder的hidden_state与encoder的每个位置的hidden_state点积，与标签的embedding点积，然后计算softmax
 - [工业界求解NER问题的12条黄金法则](https://blog.csdn.net/xixiaoyaoww/article/details/107096739)
 - [融合知识的中文医疗实体识别模型](http://www.scicat.cn/yy/20211208/108868.html)
   - 通过构建好的实体库来对文本进行预打标，将预标注结果作为bert模型的输入
@@ -41,13 +44,7 @@
 ### 2021
 - [Template-Based Named Entity Recognition Using BART [笔记]](https://zhuanlan.zhihu.com/p/462088365)
 - [论文解读：Example-Based Named Entity Recognition](https://blog.csdn.net/qq_36426650/article/details/125504613)
-  - 将标签形式化描述，BIO用begin inside other描述，将text中的每个token与所有label点积，计算相似度
-- [ACL 2021 | 复旦大学邱锡鹏组：面向不同NER子任务的统一生成框架](https://mp.weixin.qq.com/s/2AePxoar9j4MLQLxMzSf_g)
-  - 基于BAET模型，使用指针网络，对于不连续实体，需要添加标签 《dis》
-  - 推理：将decoder的hidden_state与encoder的每个位置的hidden_state点积，与标签的embedding点积，然后计算softmax
 - [微软、UIUC韩家炜组联合出品：少样本NER最新综述](https://mp.weixin.qq.com/s/tiMoFMVdQketm11rdXjiSQ)
-- [中文小样本NER模型方法总结和实战](https://mp.weixin.qq.com/s/NgCY9U1vMrg99GeoiRDtfQ)
-  - UIE在少样本和全量样本的情况下，想过媲美甚至超过BERT-CRF，但是其他模型在少样本情况下较BERT-CRF好，但是在全量样本下不如BERT-CRF
 
 
 ## 地址解析
