@@ -1,6 +1,8 @@
 
 ## LLM
 
+- [在一张 24 GB 的消费级显卡上用 RLHF 微调 20B LLMs](https://mp.weixin.qq.com/s/jWBB2BQWHUqJk0OMo3ApXQ)
+- [韩国庆熙大学等最新《生成式人工智能AIGC》综述](https://mp.weixin.qq.com/s/w185vd78lIKgpbXzNXiLOg)
 - [GPT-4之高考评测](https://mp.weixin.qq.com/s/3NE1DAcIK42rbMRtPUMo8A)
 - [ChatGPT 核心技术大起底——InstructGPT：研究人类反馈数据比加大模型规模更重要！](https://mp.weixin.qq.com/s/zzicRhuAbZ8zCOw8ok_S9w)
 - [GPT解数学题准确率升至92.5%！微软提出MathPrompter，无需微调即可打造「理科」语言模型](https://mp.weixin.qq.com/s/BR7XDIjb0s07w9OInHrJLg)
