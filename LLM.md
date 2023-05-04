@@ -1,6 +1,7 @@
 
 ## LLM
 
+- [大模型也内卷，Vicuna训练及推理指南，效果碾压斯坦福羊驼](https://zhuanlan.zhihu.com/p/624012908)
 - [在一张 24 GB 的消费级显卡上用 RLHF 微调 20B LLMs](https://mp.weixin.qq.com/s/jWBB2BQWHUqJk0OMo3ApXQ)
 - [韩国庆熙大学等最新《生成式人工智能AIGC》综述](https://mp.weixin.qq.com/s/w185vd78lIKgpbXzNXiLOg)
 - [GPT-4之高考评测](https://mp.weixin.qq.com/s/3NE1DAcIK42rbMRtPUMo8A)
