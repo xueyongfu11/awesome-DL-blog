@@ -1,6 +1,12 @@
 
 ## LLM
 
+- [RLHF，对齐了，又没完全对齐？](https://mp.weixin.qq.com/s/0Cy5o8WKyJuqWHv3gfKDNw)
+- [清华ACL 2023最新长文 | WebCPM：首个联网支持中文问答开源模型](https://mp.weixin.qq.com/s/WSzJpQBxQQKdMRRrDObICQ)
+  - 提出模仿人类使用搜索引擎搜索复杂问题并与搜索引擎多次交互的中文数据集
+- [如何大幅度延长语言模型输入长度](https://mp.weixin.qq.com/s/Jymq2ho3VQx7-o6y-JHxeg)
+  - 提出几种延长语言模型输入长度的方法
+- [赛尔笔记|大模型的涌现能力介绍](https://mp.weixin.qq.com/s/Jymq2ho3VQx7-o6y-JHxeg)
 - [大模型也内卷，Vicuna训练及推理指南，效果碾压斯坦福羊驼](https://zhuanlan.zhihu.com/p/624012908)
 - [在一张 24 GB 的消费级显卡上用 RLHF 微调 20B LLMs](https://mp.weixin.qq.com/s/jWBB2BQWHUqJk0OMo3ApXQ)
 - [韩国庆熙大学等最新《生成式人工智能AIGC》综述](https://mp.weixin.qq.com/s/w185vd78lIKgpbXzNXiLOg)
