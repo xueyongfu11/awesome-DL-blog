@@ -22,6 +22,11 @@
 - [ChatGPT 背后的“功臣”——RLHF 技术详解](https://mp.weixin.qq.com/s/TLQ3TdrB5gLb697AFmjEYQ)
 
 
+## LLM和知识图谱
+- [万字长文讲述大模型与知识图谱的关系](https://zhuanlan.zhihu.com/p/626433991)
+- [LLM 时代的金融知识图谱实践](https://zhuanlan.zhihu.com/p/623104680)
+  - 比较基础
+
 ## 大模型训练
 
 - [BLOOM 训练背后的技术](https://mp.weixin.qq.com/s/-q9opkoAomd9LZL9phm8bA)
