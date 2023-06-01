@@ -1,6 +1,8 @@
 
 ## LLM
 
+- [谷歌训了28个15亿参数模型，说明数据对大模型训练的影响](https://mp.weixin.qq.com/s/l78B9zsPnDo_pRZrPCiQsQ)
+- [ChatGPT能写长篇小说了，ETH提出RecurrentGPT实现交互式超长文本生成](https://mp.weixin.qq.com/s/UoAEowbkvSV74P5eTUrNwg)
 - [RLHF，对齐了，又没完全对齐？](https://mp.weixin.qq.com/s/0Cy5o8WKyJuqWHv3gfKDNw)
 - [清华ACL 2023最新长文 | WebCPM：首个联网支持中文问答开源模型](https://mp.weixin.qq.com/s/WSzJpQBxQQKdMRRrDObICQ)
   - 提出模仿人类使用搜索引擎搜索复杂问题并与搜索引擎多次交互的中文数据集
