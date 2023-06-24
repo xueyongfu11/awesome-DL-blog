@@ -8,6 +8,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# 加速与量化
+
+- [部署系列——神经网络INT8量化教程第一讲！](https://zhuanlan.zhihu.com/p/405571578)
+- [彻底搞懂float16与float32的计算方式](https://blog.csdn.net/leo0308/article/details/117398166)
+- [关于半精度FP16的表示范围和精度、混合精度训练--彻底弄懂](https://blog.csdn.net/guanyonglai/article/details/127058613)
+- [大模型训练中的 fp32/fp16/bf16、混合精度、训练溢出](https://zhuanlan.zhihu.com/p/622631376)
 
 # KD
 
